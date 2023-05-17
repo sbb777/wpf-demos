@@ -1,0 +1,8 @@
+D:\git\wpf-demos\richtextbox\obj_60\Debug\net6.0-windows\syncfusion.richtextboxdemos.wpf_lib_60.csproj.AssemblyReference.cache
+D:\git\wpf-demos\richtextbox\obj_60\Debug\net6.0-windows\Behaviors\ForumPostControl.g.cs
+D:\git\wpf-demos\richtextbox\obj_60\Debug\net6.0-windows\Behaviors\ForumReplyControl.g.cs
+D:\git\wpf-demos\richtextbox\obj_60\Debug\net6.0-windows\Views\ForumDemo.g.cs
+D:\git\wpf-demos\richtextbox\obj_60\Debug\net6.0-windows\Views\StickyNotesDemo.g.cs
+D:\git\wpf-demos\richtextbox\obj_60\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\git\wpf-demos\richtextbox\obj_60\Debug\net6.0-windows\syncfusion.richtextboxdemos.wpf_MarkupCompile.cache
+D:\git\wpf-demos\richtextbox\obj_60\Debug\net6.0-windows\syncfusion.richtextboxdemos.wpf_MarkupCompile.lref

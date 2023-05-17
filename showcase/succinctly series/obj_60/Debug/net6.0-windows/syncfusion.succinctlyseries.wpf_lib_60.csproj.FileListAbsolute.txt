@@ -1,0 +1,9 @@
+D:\git\wpf-demos\showcase\succinctly series\obj_60\Debug\net6.0-windows\syncfusion.succinctlyseries.wpf_lib_60.csproj.AssemblyReference.cache
+D:\git\wpf-demos\showcase\succinctly series\obj_60\Debug\net6.0-windows\Views\PDFViewerPage.baml
+D:\git\wpf-demos\showcase\succinctly series\obj_60\Debug\net6.0-windows\Views\SuccinctlySeriesDemo.baml
+D:\git\wpf-demos\showcase\succinctly series\obj_60\Debug\net6.0-windows\Views\FrontPage.g.cs
+D:\git\wpf-demos\showcase\succinctly series\obj_60\Debug\net6.0-windows\Views\PDFViewerPage.g.cs
+D:\git\wpf-demos\showcase\succinctly series\obj_60\Debug\net6.0-windows\Views\SuccinctlySeriesDemo.g.cs
+D:\git\wpf-demos\showcase\succinctly series\obj_60\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\git\wpf-demos\showcase\succinctly series\obj_60\Debug\net6.0-windows\syncfusion.succinctlyseries.wpf_MarkupCompile.cache
+D:\git\wpf-demos\showcase\succinctly series\obj_60\Debug\net6.0-windows\syncfusion.succinctlyseries.wpf_MarkupCompile.lref

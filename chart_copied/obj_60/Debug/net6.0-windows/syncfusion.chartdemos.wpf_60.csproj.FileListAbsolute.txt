@@ -1,0 +1,12 @@
+D:\git\wpf-demos\chart\obj_60\Debug\net6.0-windows\syncfusion.chartdemos.wpf_60.csproj.AssemblyReference.cache
+D:\git\wpf-demos\chart\obj_60\Debug\net6.0-windows\App.g.cs
+D:\git\wpf-demos\chart\obj_60\Debug\net6.0-windows\syncfusion.chartdemos.wpfapplication_MarkupCompile.cache
+D:\git\wpf-demos\chart\obj_60\Debug\net6.0-windows\syncfusion.chartdemos.wpf_60.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\wpf-demos\chart\obj_60\Debug\net6.0-windows\syncfusion.chartdemos.wpf_60.csproj.CoreCompileInputs.cache
+D:\git\wpf-demos\chart\obj_60\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\git\wpf-demos\chart_copied\obj_60\Debug\net6.0-windows\syncfusion.chartdemos.wpf_60.csproj.AssemblyReference.cache
+D:\git\wpf-demos\chart_copied\obj_60\Debug\net6.0-windows\App.g.cs
+D:\git\wpf-demos\chart_copied\obj_60\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\git\wpf-demos\chart_copied\obj_60\Debug\net6.0-windows\syncfusion.chartdemos.wpfapplication_MarkupCompile.cache
+D:\git\wpf-demos\chart_copied\obj_60\Debug\net6.0-windows\syncfusion.chartdemos.wpf_60.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\wpf-demos\chart_copied\obj_60\Debug\net6.0-windows\syncfusion.chartdemos.wpf_60.csproj.CoreCompileInputs.cache

@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "KjUeTvrO/s2z2rY9wLPKsD+EnUKX6wBegxJC9+W8xgQmM/Z8/OCDrp2Smx0q+yFD4yXhXw811Nzqnj7AG7WfgQ==",
+  "success": true,
+  "projectFilePath": "D:\\git\\wpf-demos\\showcase\\visualstudio\\syncfusion.visualstudiodemo.wpf_lib_60.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.data.wpf\\21.2.3\\syncfusion.data.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.edit.wpf\\21.2.3\\syncfusion.edit.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.grid.wpf\\21.2.3\\syncfusion.grid.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.gridcommon.wpf\\21.2.3\\syncfusion.gridcommon.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.licensing\\21.2.3\\syncfusion.licensing.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.linq.base\\21.2.3\\syncfusion.linq.base.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.propertygrid.wpf\\21.2.3\\syncfusion.propertygrid.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.sfchromelesswindow.wpf\\21.2.3\\syncfusion.sfchromelesswindow.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.sfgrid.wpf\\21.2.3\\syncfusion.sfgrid.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.sfinput.wpf\\21.2.3\\syncfusion.sfinput.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.sfshared.wpf\\21.2.3\\syncfusion.sfshared.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.sfskinmanager.wpf\\21.2.3\\syncfusion.sfskinmanager.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.shared.wpf\\21.2.3\\syncfusion.shared.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.themes.office2019colorful.wpf\\21.2.3\\syncfusion.themes.office2019colorful.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.tools.wpf\\21.2.3\\syncfusion.tools.wpf.21.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

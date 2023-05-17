@@ -1,0 +1,10 @@
+D:\git\wpf-demos\pdfviewer\obj_60\Debug\net6.0-windows\syncfusion.pdfviewerdemos.wpf_lib_60.csproj.AssemblyReference.cache
+D:\git\wpf-demos\pdfviewer\obj_60\Debug\net6.0-windows\Views\DocumentToolbar.baml
+D:\git\wpf-demos\pdfviewer\obj_60\Debug\net6.0-windows\Views\CustomToolbar.g.cs
+D:\git\wpf-demos\pdfviewer\obj_60\Debug\net6.0-windows\Views\DocumentToolbar.g.cs
+D:\git\wpf-demos\pdfviewer\obj_60\Debug\net6.0-windows\Views\ExportasImage.g.cs
+D:\git\wpf-demos\pdfviewer\obj_60\Debug\net6.0-windows\Views\MultiTabbedViewer.g.cs
+D:\git\wpf-demos\pdfviewer\obj_60\Debug\net6.0-windows\Views\SilentPrinting.g.cs
+D:\git\wpf-demos\pdfviewer\obj_60\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\git\wpf-demos\pdfviewer\obj_60\Debug\net6.0-windows\syncfusion.pdfviewerdemos.wpf_MarkupCompile.cache
+D:\git\wpf-demos\pdfviewer\obj_60\Debug\net6.0-windows\syncfusion.pdfviewerdemos.wpf_MarkupCompile.lref

@@ -1,0 +1,4 @@
+D:\git\wpf-demos\showcase\PowerPoint Viewer\obj_60\Debug\net6.0-windows\syncfusion.powerpointviewer.wpf_lib_60.csproj.AssemblyReference.cache
+D:\git\wpf-demos\showcase\PowerPoint Viewer\obj_60\Debug\net6.0-windows\Views\PowerPointViewer.g.cs
+D:\git\wpf-demos\showcase\PowerPoint Viewer\obj_60\Debug\net6.0-windows\syncfusion.powerpointviewer.wpf_MarkupCompile.cache
+D:\git\wpf-demos\showcase\PowerPoint Viewer\obj_60\Debug\net6.0-windows\syncfusion.powerpointviewer.wpf_MarkupCompile.lref

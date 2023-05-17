@@ -1,0 +1,7 @@
+D:\git\wpf-demos\showcase\weather analysis\obj_60\Debug\net6.0-windows\syncfusion.weatheranalysis.wpf_lib_60.csproj.AssemblyReference.cache
+D:\git\wpf-demos\showcase\weather analysis\obj_60\Debug\net6.0-windows\View\ChartView.g.cs
+D:\git\wpf-demos\showcase\weather analysis\obj_60\Debug\net6.0-windows\View\GridView.g.cs
+D:\git\wpf-demos\showcase\weather analysis\obj_60\Debug\net6.0-windows\WeatherAnalysisDemo.g.cs
+D:\git\wpf-demos\showcase\weather analysis\obj_60\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\git\wpf-demos\showcase\weather analysis\obj_60\Debug\net6.0-windows\syncfusion.weatheranalysis.wpf_MarkupCompile.cache
+D:\git\wpf-demos\showcase\weather analysis\obj_60\Debug\net6.0-windows\syncfusion.weatheranalysis.wpf_MarkupCompile.lref

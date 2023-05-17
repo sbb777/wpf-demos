@@ -1,0 +1,10 @@
+D:\git\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\syncfusion.gridcontroldemos.wpf_lib_60.csproj.AssemblyReference.cache
+D:\git\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Cell Types\GaugeChart\View\GaugeView.baml
+D:\git\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Cell Types\NestedGrid\Themes\Resources.baml
+D:\git\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Data\GridControl\Finance.baml
+D:\git\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Cell Types\GaugeChart\View\GaugeView.g.cs
+D:\git\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Import\ExcelImport\View\ExcelImport.g.cs
+D:\git\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Product ShowCase\ExcelLikeUi\View\ExcelLikeUI.g.cs
+D:\git\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\git\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\syncfusion.gridcontroldemos.wpf_MarkupCompile.cache
+D:\git\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\syncfusion.gridcontroldemos.wpf_MarkupCompile.lref

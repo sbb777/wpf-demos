@@ -1,0 +1,20 @@
+﻿syncfusion.expenseanalysis.wpf
+
+
+library
+C#
+.cs
+D:\git\wpf-demos\showcase\expense analysis tracker\obj_60\Release-Xml\net6.0-windows\
+syncfusion.expenseanalysis.wpf
+none
+false
+TRACE;NET50;RELEASE_XML;NET;NET6_0;NETCOREAPP
+
+14-268619546
+
+384040425
+2201977100024
+Assets\ExpenseAnalysis\ChromelessWindowResource.xaml;Assets\ExpenseAnalysis\IconResources.xaml;Assets\ExpenseAnalysis\TextStyleResources.xaml;ExpenseAnalysisDemo.xaml;View\BudgetView.xaml;View\DashboardView.xaml;View\DeleteDialog.xaml;View\DialogWindow.xaml;View\EditBudgetView.xaml;View\EditGoalView.xaml;View\EditTransactionView.xaml;View\GoalsView.xaml;View\MainView.xaml;View\TransactionsView.xaml;
+
+True
+

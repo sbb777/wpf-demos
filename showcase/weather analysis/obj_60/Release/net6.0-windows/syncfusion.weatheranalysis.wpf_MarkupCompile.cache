@@ -1,0 +1,20 @@
+﻿syncfusion.weatheranalysis.wpf
+
+
+library
+C#
+.cs
+D:\git\wpf-demos\showcase\weather analysis\obj_60\Release\net6.0-windows\
+syncfusion.weatheranalysis.wpf
+none
+false
+TRACE;NET50;RELEASE;NET;NET6_0;NETCOREAPP
+
+3-1743754957
+
+19-2046268079
+2121764969898
+View\ChartView.xaml;View\GridView.xaml;WeatherAnalysisDemo.xaml;
+
+True
+

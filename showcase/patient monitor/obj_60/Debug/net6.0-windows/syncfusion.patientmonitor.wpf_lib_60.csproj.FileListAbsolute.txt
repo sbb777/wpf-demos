@@ -1,0 +1,7 @@
+D:\git\wpf-demos\showcase\patient monitor\obj_60\Debug\net6.0-windows\syncfusion.patientmonitor.wpf_lib_60.csproj.AssemblyReference.cache
+D:\git\wpf-demos\showcase\patient monitor\obj_60\Debug\net6.0-windows\PatientMonitor.g.cs
+D:\git\wpf-demos\showcase\patient monitor\obj_60\Debug\net6.0-windows\View\CurrentDetailsDemo.g.cs
+D:\git\wpf-demos\showcase\patient monitor\obj_60\Debug\net6.0-windows\View\HistoryDetailsView.g.cs
+D:\git\wpf-demos\showcase\patient monitor\obj_60\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\git\wpf-demos\showcase\patient monitor\obj_60\Debug\net6.0-windows\syncfusion.patientmonitor.wpf_MarkupCompile.cache
+D:\git\wpf-demos\showcase\patient monitor\obj_60\Debug\net6.0-windows\syncfusion.patientmonitor.wpf_MarkupCompile.lref

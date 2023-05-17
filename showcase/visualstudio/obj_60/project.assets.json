@@ -1,0 +1,913 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "Syncfusion.Data.WPF/21.2.3": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0-windows7.0/Syncfusion.Data.WPF.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Syncfusion.Data.WPF.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Syncfusion.Edit.WPF/21.2.3": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.GridCommon.Wpf": "21.2.3",
+          "Syncfusion.Licensing": "21.2.3",
+          "Syncfusion.Shared.WPF": "21.2.3",
+          "Syncfusion.Tools.WPF": "21.2.3"
+        },
+        "compile": {
+          "lib/net6.0-windows7.0/Syncfusion.Edit.WPF.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Syncfusion.Edit.WPF.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Syncfusion.Grid.WPF/21.2.3": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.GridCommon.Wpf": "21.2.3",
+          "Syncfusion.Licensing": "21.2.3",
+          "Syncfusion.Linq.Base": "21.2.3",
+          "Syncfusion.Shared.WPF": "21.2.3"
+        },
+        "compile": {
+          "lib/net6.0-windows7.0/Syncfusion.Grid.WPF.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Syncfusion.Grid.WPF.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Syncfusion.GridCommon.Wpf/21.2.3": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0-windows7.0/Syncfusion.GridCommon.WPF.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Syncfusion.GridCommon.WPF.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Syncfusion.Licensing/21.2.3": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0-windows7.0/Syncfusion.Licensing.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Syncfusion.Licensing.dll": {}
+        }
+      },
+      "Syncfusion.Linq.Base/21.2.3": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0-windows7.0/Syncfusion.Linq.Base.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Syncfusion.Linq.Base.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Syncfusion.PropertyGrid.WPF/21.2.3": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Licensing": "21.2.3",
+          "Syncfusion.SfInput.WPF": "21.2.3",
+          "Syncfusion.Shared.WPF": "21.2.3",
+          "Syncfusion.Tools.WPF": "21.2.3"
+        },
+        "compile": {
+          "lib/net6.0-windows7.0/Syncfusion.PropertyGrid.WPF.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Syncfusion.PropertyGrid.WPF.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Syncfusion.SfChromelessWindow.WPF/21.2.3": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Licensing": "21.2.3"
+        },
+        "compile": {
+          "lib/net6.0-windows7.0/Syncfusion.SfChromelessWindow.WPF.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Syncfusion.SfChromelessWindow.WPF.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Syncfusion.SfGrid.WPF/21.2.3": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Data.WPF": "21.2.3",
+          "Syncfusion.Licensing": "21.2.3",
+          "Syncfusion.Shared.WPF": "21.2.3"
+        },
+        "compile": {
+          "lib/net6.0-windows7.0/Syncfusion.SfGrid.WPF.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Syncfusion.SfGrid.WPF.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Syncfusion.SfInput.WPF/21.2.3": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Licensing": "21.2.3",
+          "Syncfusion.Shared.WPF": "21.2.3"
+        },
+        "compile": {
+          "lib/net6.0-windows7.0/Syncfusion.SfInput.WPF.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Syncfusion.SfInput.WPF.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Syncfusion.SfShared.WPF/21.2.3": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Licensing": "21.2.3"
+        },
+        "compile": {
+          "lib/net6.0-windows7.0/Syncfusion.SfShared.WPF.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Syncfusion.SfShared.WPF.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Syncfusion.SfSkinManager.WPF/21.2.3": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Licensing": "21.2.3"
+        },
+        "compile": {
+          "lib/net6.0-windows7.0/Syncfusion.SfSkinManager.WPF.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Syncfusion.SfSkinManager.WPF.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Syncfusion.Shared.WPF/21.2.3": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Licensing": "21.2.3"
+        },
+        "compile": {
+          "lib/net6.0-windows7.0/Syncfusion.Shared.WPF.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Syncfusion.Shared.WPF.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Syncfusion.Themes.Office2019Colorful.WPF/21.2.3": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Licensing": "21.2.3",
+          "Syncfusion.SfSkinManager.WPF": "21.2.3"
+        },
+        "compile": {
+          "lib/net6.0-windows7.0/Syncfusion.Themes.Office2019Colorful.WPF.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Syncfusion.Themes.Office2019Colorful.WPF.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Syncfusion.Tools.WPF/21.2.3": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Licensing": "21.2.3",
+          "Syncfusion.Shared.WPF": "21.2.3"
+        },
+        "compile": {
+          "lib/net6.0-windows7.0/Syncfusion.Tools.WPF.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Syncfusion.Tools.WPF.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Syncfusion.Data.WPF/21.2.3": {
+      "sha512": "1SKyBq26ZWLL1FGmiettRfmEDWDw7ykWRxcpYo8OZI3gZXE9UmryV/u70pA3/7yZ72Z3SFK47ucgRNb3UaQNog==",
+      "type": "package",
+      "path": "syncfusion.data.wpf/21.2.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "lib/net40/Syncfusion.Data.WPF.dll",
+        "lib/net40/Syncfusion.Data.WPF.xml",
+        "lib/net45/Syncfusion.Data.WPF.dll",
+        "lib/net45/Syncfusion.Data.WPF.xml",
+        "lib/net451/Syncfusion.Data.WPF.dll",
+        "lib/net451/Syncfusion.Data.WPF.xml",
+        "lib/net46/Syncfusion.Data.WPF.dll",
+        "lib/net46/Syncfusion.Data.WPF.xml",
+        "lib/net6.0-windows7.0/Syncfusion.Data.WPF.dll",
+        "lib/net6.0-windows7.0/Syncfusion.Data.WPF.xml",
+        "syncfusion.data.wpf.21.2.3.nupkg.sha512",
+        "syncfusion.data.wpf.nuspec",
+        "syncfusion_logo.png"
+      ]
+    },
+    "Syncfusion.Edit.WPF/21.2.3": {
+      "sha512": "/hc8nwa0/xFXE5Z5qlR7ZLtK6UZThkpPScAcZguXes5uxgsfHRa++/OIN2hsKpgxb+q+hRsC2Hb4ulUL7qcKnQ==",
+      "type": "package",
+      "path": "syncfusion.edit.wpf/21.2.3",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "README.md",
+        "lib/net40/Design/Syncfusion.Design.Wpf.dll",
+        "lib/net40/Design/Syncfusion.Edit.WPF.DesignTools.dll",
+        "lib/net40/Design/Syncfusion.Edit.Wpf.Expression.Design.dll",
+        "lib/net40/Design/Syncfusion.Edit.Wpf.VisualStudio.Design.dll",
+        "lib/net40/Design/Syncfusion.Edit.Wpf.dll.Design.dll",
+        "lib/net40/Syncfusion.Edit.WPF.dll",
+        "lib/net40/Syncfusion.Edit.WPF.xml",
+        "lib/net45/Design/Syncfusion.Design.Wpf.dll",
+        "lib/net45/Design/Syncfusion.Edit.WPF.DesignTools.dll",
+        "lib/net45/Design/Syncfusion.Edit.Wpf.Expression.Design.dll",
+        "lib/net45/Design/Syncfusion.Edit.Wpf.VisualStudio.Design.dll",
+        "lib/net45/Design/Syncfusion.Edit.Wpf.dll.Design.dll",
+        "lib/net45/Syncfusion.Edit.WPF.dll",
+        "lib/net45/Syncfusion.Edit.WPF.xml",
+        "lib/net451/Design/Syncfusion.Design.Wpf.dll",
+        "lib/net451/Design/Syncfusion.Edit.WPF.DesignTools.dll",
+        "lib/net451/Design/Syncfusion.Edit.Wpf.Expression.Design.dll",
+        "lib/net451/Design/Syncfusion.Edit.Wpf.VisualStudio.Design.dll",
+        "lib/net451/Design/Syncfusion.Edit.Wpf.dll.Design.dll",
+        "lib/net451/Syncfusion.Edit.WPF.dll",
+        "lib/net451/Syncfusion.Edit.WPF.xml",
+        "lib/net46/Design/Syncfusion.Design.Wpf.dll",
+        "lib/net46/Design/Syncfusion.Edit.WPF.DesignTools.dll",
+        "lib/net46/Design/Syncfusion.Edit.Wpf.Expression.Design.dll",
+        "lib/net46/Design/Syncfusion.Edit.Wpf.VisualStudio.Design.dll",
+        "lib/net46/Design/Syncfusion.Edit.Wpf.dll.Design.dll",
+        "lib/net46/Syncfusion.Edit.WPF.dll",
+        "lib/net46/Syncfusion.Edit.WPF.xml",
+        "lib/net6.0-windows7.0/Design/Syncfusion.Edit.WPF.DesignTools.dll",
+        "lib/net6.0-windows7.0/Syncfusion.Edit.WPF.dll",
+        "lib/net6.0-windows7.0/Syncfusion.Edit.WPF.xml",
+        "syncfusion.edit.wpf.21.2.3.nupkg.sha512",
+        "syncfusion.edit.wpf.nuspec",
+        "syncfusion_logo.png",
+        "tools/VisualStudioToolsManifest.xml"
+      ]
+    },
+    "Syncfusion.Grid.WPF/21.2.3": {
+      "sha512": "Wu0KTfL/U5tsdFIpJP9Ta8oVMOBYLCfNOZdt51KMUrSHZCynaS56Ch1VdudLzC1MMOSoiocZTP+f4v+sxXnFjA==",
+      "type": "package",
+      "path": "syncfusion.grid.wpf/21.2.3",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "README.md",
+        "lib/net40/Design/Syncfusion.Grid.WPF.DesignTools.dll",
+        "lib/net40/Design/Syncfusion.Grid.Wpf.VisualStudio.Design.dll",
+        "lib/net40/Design/Syncfusion.Grid.Wpf.dll.Design.dll",
+        "lib/net40/Syncfusion.Grid.WPF.dll",
+        "lib/net40/Syncfusion.Grid.WPF.xml",
+        "lib/net45/Design/Syncfusion.Grid.WPF.DesignTools.dll",
+        "lib/net45/Design/Syncfusion.Grid.Wpf.VisualStudio.Design.dll",
+        "lib/net45/Design/Syncfusion.Grid.Wpf.dll.Design.dll",
+        "lib/net45/Syncfusion.Grid.WPF.dll",
+        "lib/net45/Syncfusion.Grid.WPF.xml",
+        "lib/net451/Design/Syncfusion.Grid.WPF.DesignTools.dll",
+        "lib/net451/Design/Syncfusion.Grid.Wpf.VisualStudio.Design.dll",
+        "lib/net451/Design/Syncfusion.Grid.Wpf.dll.Design.dll",
+        "lib/net451/Syncfusion.Grid.WPF.dll",
+        "lib/net451/Syncfusion.Grid.WPF.xml",
+        "lib/net46/Design/Syncfusion.Grid.WPF.DesignTools.dll",
+        "lib/net46/Design/Syncfusion.Grid.Wpf.VisualStudio.Design.dll",
+        "lib/net46/Design/Syncfusion.Grid.Wpf.dll.Design.dll",
+        "lib/net46/Syncfusion.Grid.WPF.dll",
+        "lib/net46/Syncfusion.Grid.WPF.xml",
+        "lib/net6.0-windows7.0/Design/Syncfusion.Grid.WPF.DesignTools.dll",
+        "lib/net6.0-windows7.0/Syncfusion.Grid.WPF.dll",
+        "lib/net6.0-windows7.0/Syncfusion.Grid.WPF.xml",
+        "syncfusion.grid.wpf.21.2.3.nupkg.sha512",
+        "syncfusion.grid.wpf.nuspec",
+        "syncfusion_logo.png",
+        "tools/VisualStudioToolsManifest.xml"
+      ]
+    },
+    "Syncfusion.GridCommon.Wpf/21.2.3": {
+      "sha512": "wdYiQ+6lM1PepR/EoL0ER0Udd9nWit3OK1NG21omzkYyOGXAw5OuR8Lw26221S5RjoGITw0jxiA+DQP6iK7/ag==",
+      "type": "package",
+      "path": "syncfusion.gridcommon.wpf/21.2.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "lib/net40/Syncfusion.GridCommon.WPF.dll",
+        "lib/net40/Syncfusion.GridCommon.WPF.xml",
+        "lib/net45/Syncfusion.GridCommon.WPF.dll",
+        "lib/net45/Syncfusion.GridCommon.WPF.xml",
+        "lib/net451/Syncfusion.GridCommon.WPF.dll",
+        "lib/net451/Syncfusion.GridCommon.WPF.xml",
+        "lib/net46/Syncfusion.GridCommon.WPF.dll",
+        "lib/net46/Syncfusion.GridCommon.WPF.xml",
+        "lib/net6.0-windows7.0/Syncfusion.GridCommon.WPF.dll",
+        "lib/net6.0-windows7.0/Syncfusion.GridCommon.WPF.xml",
+        "syncfusion.gridcommon.wpf.21.2.3.nupkg.sha512",
+        "syncfusion.gridcommon.wpf.nuspec",
+        "syncfusion_logo.png"
+      ]
+    },
+    "Syncfusion.Licensing/21.2.3": {
+      "sha512": "9ZS+tE48qD3jtE0brkf0ZA5JnvxHOxll6IwJb7kNoJuJPuOUwLUGSmJ82fQ5VFRO5VtwONvKHDnvdJ5nAzeXKw==",
+      "type": "package",
+      "path": "syncfusion.licensing/21.2.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "lib/MonoAndroid90/Syncfusion.Licensing.dll",
+        "lib/Xamarin.Mac/Syncfusion.Licensing.dll",
+        "lib/Xamarin.iOS10/Syncfusion.Licensing.dll",
+        "lib/net40/Syncfusion.Licensing.dll",
+        "lib/net45/Syncfusion.Licensing.dll",
+        "lib/net451/Syncfusion.Licensing.dll",
+        "lib/net46/Syncfusion.Licensing.dll",
+        "lib/net6.0-windows7.0/Syncfusion.Licensing.dll",
+        "lib/net6.0/Syncfusion.Licensing.dll",
+        "lib/net7.0-windows7.0/Syncfusion.Licensing.dll",
+        "lib/net7.0/Syncfusion.Licensing.dll",
+        "lib/netstandard2.0/Syncfusion.Licensing.dll",
+        "lib/uap10.0/Syncfusion.Licensing.dll",
+        "syncfusion.licensing.21.2.3.nupkg.sha512",
+        "syncfusion.licensing.nuspec",
+        "syncfusion_logo.png"
+      ]
+    },
+    "Syncfusion.Linq.Base/21.2.3": {
+      "sha512": "mb+mpp+C77S7j/ZwTi7OweUrgGygwX840rYfje08Z/4ld1thxsikiYrPEKCpdApx8Im6xAM0903gcpt1VbfMZg==",
+      "type": "package",
+      "path": "syncfusion.linq.base/21.2.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "lib/net40/Syncfusion.Linq.Base.dll",
+        "lib/net40/Syncfusion.Linq.Base.xml",
+        "lib/net45/Syncfusion.Linq.Base.dll",
+        "lib/net45/Syncfusion.Linq.Base.xml",
+        "lib/net451/Syncfusion.Linq.Base.dll",
+        "lib/net451/Syncfusion.Linq.Base.xml",
+        "lib/net46/Syncfusion.Linq.Base.dll",
+        "lib/net46/Syncfusion.Linq.Base.xml",
+        "lib/net6.0-windows7.0/Syncfusion.Linq.Base.dll",
+        "lib/net6.0-windows7.0/Syncfusion.Linq.Base.xml",
+        "syncfusion.linq.base.21.2.3.nupkg.sha512",
+        "syncfusion.linq.base.nuspec",
+        "syncfusion_logo.png"
+      ]
+    },
+    "Syncfusion.PropertyGrid.WPF/21.2.3": {
+      "sha512": "OSyuXpdxbjkg/ZtdiRgwGL2Z3xVVtnKRsDc0Q2YQ/Y+TYaKbZIAcO+m0bCzByCmA0rZhNSI+0Dc5qVLXrVseXw==",
+      "type": "package",
+      "path": "syncfusion.propertygrid.wpf/21.2.3",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "README.md",
+        "lib/net40/Design/Syncfusion.Design.Wpf.dll",
+        "lib/net40/Design/Syncfusion.PropertyGrid.WPF.DesignTools.dll",
+        "lib/net40/Design/Syncfusion.PropertyGrid.Wpf.Expression.Design.dll",
+        "lib/net40/Design/Syncfusion.PropertyGrid.Wpf.VisualStudio.Design.dll",
+        "lib/net40/Design/Syncfusion.PropertyGrid.Wpf.dll.Design.dll",
+        "lib/net40/Syncfusion.PropertyGrid.WPF.dll",
+        "lib/net40/Syncfusion.PropertyGrid.WPF.xml",
+        "lib/net45/Design/Syncfusion.Design.Wpf.dll",
+        "lib/net45/Design/Syncfusion.PropertyGrid.WPF.DesignTools.dll",
+        "lib/net45/Design/Syncfusion.PropertyGrid.Wpf.Expression.Design.dll",
+        "lib/net45/Design/Syncfusion.PropertyGrid.Wpf.VisualStudio.Design.dll",
+        "lib/net45/Design/Syncfusion.PropertyGrid.Wpf.dll.Design.dll",
+        "lib/net45/Syncfusion.PropertyGrid.WPF.dll",
+        "lib/net45/Syncfusion.PropertyGrid.WPF.xml",
+        "lib/net451/Design/Syncfusion.Design.Wpf.dll",
+        "lib/net451/Design/Syncfusion.PropertyGrid.WPF.DesignTools.dll",
+        "lib/net451/Design/Syncfusion.PropertyGrid.Wpf.Expression.Design.dll",
+        "lib/net451/Design/Syncfusion.PropertyGrid.Wpf.VisualStudio.Design.dll",
+        "lib/net451/Design/Syncfusion.PropertyGrid.Wpf.dll.Design.dll",
+        "lib/net451/Syncfusion.PropertyGrid.WPF.dll",
+        "lib/net451/Syncfusion.PropertyGrid.WPF.xml",
+        "lib/net46/Design/Syncfusion.Design.Wpf.dll",
+        "lib/net46/Design/Syncfusion.PropertyGrid.WPF.DesignTools.dll",
+        "lib/net46/Design/Syncfusion.PropertyGrid.Wpf.Expression.Design.dll",
+        "lib/net46/Design/Syncfusion.PropertyGrid.Wpf.VisualStudio.Design.dll",
+        "lib/net46/Design/Syncfusion.PropertyGrid.Wpf.dll.Design.dll",
+        "lib/net46/Syncfusion.PropertyGrid.WPF.dll",
+        "lib/net46/Syncfusion.PropertyGrid.WPF.xml",
+        "lib/net6.0-windows7.0/Design/Syncfusion.PropertyGrid.WPF.DesignTools.dll",
+        "lib/net6.0-windows7.0/Syncfusion.PropertyGrid.WPF.dll",
+        "lib/net6.0-windows7.0/Syncfusion.PropertyGrid.WPF.xml",
+        "syncfusion.propertygrid.wpf.21.2.3.nupkg.sha512",
+        "syncfusion.propertygrid.wpf.nuspec",
+        "syncfusion_logo.png",
+        "tools/VisualStudioToolsManifest.xml"
+      ]
+    },
+    "Syncfusion.SfChromelessWindow.WPF/21.2.3": {
+      "sha512": "rqNJkd/YAAl4i01WaGZV3JlcF5Qgm0DWodtiB6AvQdwB2YK9Y3XmA0fL6eZwcUbPUT1Bnm4scE5ztYvz00+aZw==",
+      "type": "package",
+      "path": "syncfusion.sfchromelesswindow.wpf/21.2.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "README.md",
+        "lib/net40/Design/Syncfusion.SfChromelessWindow.WPF.Expression.Design.dll",
+        "lib/net40/Design/Syncfusion.SfChromelessWindow.WPF.VisualStudio.Design.dll",
+        "lib/net40/Syncfusion.SfChromelessWindow.WPF.dll",
+        "lib/net40/Syncfusion.SfChromelessWindow.WPF.xml",
+        "lib/net45/Design/Syncfusion.SfChromelessWindow.WPF.Expression.Design.dll",
+        "lib/net45/Design/Syncfusion.SfChromelessWindow.WPF.VisualStudio.Design.dll",
+        "lib/net45/Syncfusion.SfChromelessWindow.WPF.dll",
+        "lib/net45/Syncfusion.SfChromelessWindow.WPF.xml",
+        "lib/net451/Design/Syncfusion.SfChromelessWindow.WPF.Expression.Design.dll",
+        "lib/net451/Design/Syncfusion.SfChromelessWindow.WPF.VisualStudio.Design.dll",
+        "lib/net451/Syncfusion.SfChromelessWindow.WPF.dll",
+        "lib/net451/Syncfusion.SfChromelessWindow.WPF.xml",
+        "lib/net46/Design/Syncfusion.SfChromelessWindow.WPF.Expression.Design.dll",
+        "lib/net46/Design/Syncfusion.SfChromelessWindow.WPF.VisualStudio.Design.dll",
+        "lib/net46/Syncfusion.SfChromelessWindow.WPF.dll",
+        "lib/net46/Syncfusion.SfChromelessWindow.WPF.xml",
+        "lib/net6.0-windows7.0/Syncfusion.SfChromelessWindow.WPF.dll",
+        "lib/net6.0-windows7.0/Syncfusion.SfChromelessWindow.WPF.xml",
+        "syncfusion.sfchromelesswindow.wpf.21.2.3.nupkg.sha512",
+        "syncfusion.sfchromelesswindow.wpf.nuspec",
+        "syncfusion_logo.png"
+      ]
+    },
+    "Syncfusion.SfGrid.WPF/21.2.3": {
+      "sha512": "cVdgOV6sV+fIzjKTjfpby3qJkaI4gWwWySP2oWNiREXC7SA7i9YvKCAzjw0YEZ+mjM+FIT3xCGxCP66MhQ9dkA==",
+      "type": "package",
+      "path": "syncfusion.sfgrid.wpf/21.2.3",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "README.md",
+        "lib/net40/Design/Syncfusion.SfGrid.WPF.DesignTools.dll",
+        "lib/net40/Design/Syncfusion.SfGrid.WPF.Expression.Design.dll",
+        "lib/net40/Design/Syncfusion.SfGrid.WPF.VisualStudio.Design.dll",
+        "lib/net40/Syncfusion.SfGrid.WPF.dll",
+        "lib/net40/Syncfusion.SfGrid.WPF.xml",
+        "lib/net45/Design/Syncfusion.SfGrid.WPF.DesignTools.dll",
+        "lib/net45/Design/Syncfusion.SfGrid.WPF.Expression.Design.dll",
+        "lib/net45/Design/Syncfusion.SfGrid.WPF.VisualStudio.Design.dll",
+        "lib/net45/Syncfusion.SfGrid.WPF.dll",
+        "lib/net45/Syncfusion.SfGrid.WPF.xml",
+        "lib/net451/Design/Syncfusion.SfGrid.WPF.DesignTools.dll",
+        "lib/net451/Design/Syncfusion.SfGrid.WPF.Expression.Design.dll",
+        "lib/net451/Design/Syncfusion.SfGrid.WPF.VisualStudio.Design.dll",
+        "lib/net451/Syncfusion.SfGrid.WPF.dll",
+        "lib/net451/Syncfusion.SfGrid.WPF.xml",
+        "lib/net46/Design/Syncfusion.SfGrid.WPF.DesignTools.dll",
+        "lib/net46/Design/Syncfusion.SfGrid.WPF.Expression.Design.dll",
+        "lib/net46/Design/Syncfusion.SfGrid.WPF.VisualStudio.Design.dll",
+        "lib/net46/Syncfusion.SfGrid.WPF.dll",
+        "lib/net46/Syncfusion.SfGrid.WPF.xml",
+        "lib/net6.0-windows7.0/Design/Syncfusion.SfGrid.WPF.DesignTools.dll",
+        "lib/net6.0-windows7.0/Syncfusion.SfGrid.WPF.dll",
+        "lib/net6.0-windows7.0/Syncfusion.SfGrid.WPF.xml",
+        "syncfusion.sfgrid.wpf.21.2.3.nupkg.sha512",
+        "syncfusion.sfgrid.wpf.nuspec",
+        "syncfusion_logo.png",
+        "tools/VisualStudioToolsManifest.xml"
+      ]
+    },
+    "Syncfusion.SfInput.WPF/21.2.3": {
+      "sha512": "JyRA9UzKjE/pXc0CoeVAAG9gxkjqdPZD7N41Plk9GWQBZkXITV743VUC1ffy0VE+zWXuI9NBvUSE0HC817a5YA==",
+      "type": "package",
+      "path": "syncfusion.sfinput.wpf/21.2.3",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "README.md",
+        "lib/net40/Design/Syncfusion.Design.Wpf.dll",
+        "lib/net40/Design/Syncfusion.SfInput.WPF.DesignTools.dll",
+        "lib/net40/Design/Syncfusion.SfInput.WPF.Expression.Design.dll",
+        "lib/net40/Design/Syncfusion.SfInput.Wpf.VisualStudio.Design.dll",
+        "lib/net40/Syncfusion.SfInput.WPF.dll",
+        "lib/net40/Syncfusion.SfInput.WPF.xml",
+        "lib/net45/Design/Syncfusion.Design.Wpf.dll",
+        "lib/net45/Design/Syncfusion.SfInput.WPF.DesignTools.dll",
+        "lib/net45/Design/Syncfusion.SfInput.WPF.Expression.Design.dll",
+        "lib/net45/Design/Syncfusion.SfInput.Wpf.VisualStudio.Design.dll",
+        "lib/net45/Syncfusion.SfInput.WPF.dll",
+        "lib/net45/Syncfusion.SfInput.WPF.xml",
+        "lib/net451/Design/Syncfusion.Design.Wpf.dll",
+        "lib/net451/Design/Syncfusion.SfInput.WPF.DesignTools.dll",
+        "lib/net451/Design/Syncfusion.SfInput.WPF.Expression.Design.dll",
+        "lib/net451/Design/Syncfusion.SfInput.Wpf.VisualStudio.Design.dll",
+        "lib/net451/Syncfusion.SfInput.WPF.dll",
+        "lib/net451/Syncfusion.SfInput.WPF.xml",
+        "lib/net46/Design/Syncfusion.Design.Wpf.dll",
+        "lib/net46/Design/Syncfusion.SfInput.WPF.DesignTools.dll",
+        "lib/net46/Design/Syncfusion.SfInput.WPF.Expression.Design.dll",
+        "lib/net46/Design/Syncfusion.SfInput.Wpf.VisualStudio.Design.dll",
+        "lib/net46/Syncfusion.SfInput.WPF.dll",
+        "lib/net46/Syncfusion.SfInput.WPF.xml",
+        "lib/net6.0-windows7.0/Design/Syncfusion.SfInput.WPF.DesignTools.dll",
+        "lib/net6.0-windows7.0/Syncfusion.SfInput.WPF.dll",
+        "lib/net6.0-windows7.0/Syncfusion.SfInput.WPF.xml",
+        "syncfusion.sfinput.wpf.21.2.3.nupkg.sha512",
+        "syncfusion.sfinput.wpf.nuspec",
+        "syncfusion_logo.png",
+        "tools/VisualStudioToolsManifest.xml"
+      ]
+    },
+    "Syncfusion.SfShared.WPF/21.2.3": {
+      "sha512": "nMOsun2uNKRhr/9V3cTjSx0TdyKJPSlSsnsaM/KEjhwmg+/f0din9FAZQG4XdoEisc4HqdH3kyjiVrSOg514dA==",
+      "type": "package",
+      "path": "syncfusion.sfshared.wpf/21.2.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "lib/net40/Design/Syncfusion.Design.Wpf.dll",
+        "lib/net40/Design/Syncfusion.SfShared.WPF.Expression.Design.dll",
+        "lib/net40/Design/Syncfusion.SfShared.Wpf.VisualStudio.Design.dll",
+        "lib/net40/Syncfusion.SfShared.WPF.dll",
+        "lib/net40/Syncfusion.SfShared.WPF.xml",
+        "lib/net45/Design/Syncfusion.Design.Wpf.dll",
+        "lib/net45/Design/Syncfusion.SfShared.WPF.Expression.Design.dll",
+        "lib/net45/Design/Syncfusion.SfShared.Wpf.VisualStudio.Design.dll",
+        "lib/net45/Syncfusion.SfShared.WPF.dll",
+        "lib/net45/Syncfusion.SfShared.WPF.xml",
+        "lib/net451/Design/Syncfusion.Design.Wpf.dll",
+        "lib/net451/Design/Syncfusion.SfShared.WPF.Expression.Design.dll",
+        "lib/net451/Design/Syncfusion.SfShared.Wpf.VisualStudio.Design.dll",
+        "lib/net451/Syncfusion.SfShared.WPF.dll",
+        "lib/net451/Syncfusion.SfShared.WPF.xml",
+        "lib/net46/Design/Syncfusion.Design.Wpf.dll",
+        "lib/net46/Design/Syncfusion.SfShared.WPF.Expression.Design.dll",
+        "lib/net46/Design/Syncfusion.SfShared.Wpf.VisualStudio.Design.dll",
+        "lib/net46/Syncfusion.SfShared.WPF.dll",
+        "lib/net46/Syncfusion.SfShared.WPF.xml",
+        "lib/net6.0-windows7.0/Syncfusion.SfShared.WPF.dll",
+        "lib/net6.0-windows7.0/Syncfusion.SfShared.WPF.xml",
+        "syncfusion.sfshared.wpf.21.2.3.nupkg.sha512",
+        "syncfusion.sfshared.wpf.nuspec",
+        "syncfusion_logo.png"
+      ]
+    },
+    "Syncfusion.SfSkinManager.WPF/21.2.3": {
+      "sha512": "0+9HatciWbwfRO/RhkR/T1WpGU+504d9GtAPi1zQLHnM9d/a1aP8W1pHS3SRBW+N7Bqd4wqLvjOhQGygyr3L2g==",
+      "type": "package",
+      "path": "syncfusion.sfskinmanager.wpf/21.2.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "README.md",
+        "lib/net40/Syncfusion.SfSkinManager.WPF.dll",
+        "lib/net40/Syncfusion.SfSkinManager.WPF.xml",
+        "lib/net45/Syncfusion.SfSkinManager.WPF.dll",
+        "lib/net45/Syncfusion.SfSkinManager.WPF.xml",
+        "lib/net451/Syncfusion.SfSkinManager.WPF.dll",
+        "lib/net451/Syncfusion.SfSkinManager.WPF.xml",
+        "lib/net46/Syncfusion.SfSkinManager.WPF.dll",
+        "lib/net46/Syncfusion.SfSkinManager.WPF.xml",
+        "lib/net6.0-windows7.0/Syncfusion.SfSkinManager.WPF.dll",
+        "lib/net6.0-windows7.0/Syncfusion.SfSkinManager.WPF.xml",
+        "syncfusion.sfskinmanager.wpf.21.2.3.nupkg.sha512",
+        "syncfusion.sfskinmanager.wpf.nuspec",
+        "syncfusion_logo.png"
+      ]
+    },
+    "Syncfusion.Shared.WPF/21.2.3": {
+      "sha512": "qtdQtWvsvhiKSMfUyL6dFMADKFuo6TUNzABVr38wQl/2cY4pEjqnX1afb15jMJNYvIknp7oyRH1bIktu8+idOw==",
+      "type": "package",
+      "path": "syncfusion.shared.wpf/21.2.3",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "README.md",
+        "lib/net40/Design/Syncfusion.Design.Wpf.dll",
+        "lib/net40/Design/Syncfusion.Shared.WPF.DesignTools.dll",
+        "lib/net40/Design/Syncfusion.Shared.Wpf.Expression.Design.dll",
+        "lib/net40/Design/Syncfusion.Shared.Wpf.VisualStudio.Design.dll",
+        "lib/net40/Design/Syncfusion.Shared.Wpf.dll.Design.dll",
+        "lib/net40/Syncfusion.Shared.WPF.dll",
+        "lib/net40/Syncfusion.Shared.WPF.xml",
+        "lib/net45/Design/Syncfusion.Design.Wpf.dll",
+        "lib/net45/Design/Syncfusion.Shared.WPF.DesignTools.dll",
+        "lib/net45/Design/Syncfusion.Shared.Wpf.Expression.Design.dll",
+        "lib/net45/Design/Syncfusion.Shared.Wpf.VisualStudio.Design.dll",
+        "lib/net45/Design/Syncfusion.Shared.Wpf.dll.Design.dll",
+        "lib/net45/Syncfusion.Shared.WPF.dll",
+        "lib/net45/Syncfusion.Shared.WPF.xml",
+        "lib/net451/Design/Syncfusion.Design.Wpf.dll",
+        "lib/net451/Design/Syncfusion.Shared.WPF.DesignTools.dll",
+        "lib/net451/Design/Syncfusion.Shared.Wpf.Expression.Design.dll",
+        "lib/net451/Design/Syncfusion.Shared.Wpf.VisualStudio.Design.dll",
+        "lib/net451/Design/Syncfusion.Shared.Wpf.dll.Design.dll",
+        "lib/net451/Syncfusion.Shared.WPF.dll",
+        "lib/net451/Syncfusion.Shared.WPF.xml",
+        "lib/net46/Design/Syncfusion.Design.Wpf.dll",
+        "lib/net46/Design/Syncfusion.Shared.WPF.DesignTools.dll",
+        "lib/net46/Design/Syncfusion.Shared.Wpf.Expression.Design.dll",
+        "lib/net46/Design/Syncfusion.Shared.Wpf.VisualStudio.Design.dll",
+        "lib/net46/Design/Syncfusion.Shared.Wpf.dll.Design.dll",
+        "lib/net46/Syncfusion.Shared.WPF.dll",
+        "lib/net46/Syncfusion.Shared.WPF.xml",
+        "lib/net6.0-windows7.0/Design/Syncfusion.Shared.WPF.DesignTools.dll",
+        "lib/net6.0-windows7.0/Syncfusion.Shared.WPF.dll",
+        "lib/net6.0-windows7.0/Syncfusion.Shared.WPF.xml",
+        "syncfusion.shared.wpf.21.2.3.nupkg.sha512",
+        "syncfusion.shared.wpf.nuspec",
+        "syncfusion_logo.png",
+        "tools/VisualStudioToolsManifest.xml"
+      ]
+    },
+    "Syncfusion.Themes.Office2019Colorful.WPF/21.2.3": {
+      "sha512": "6lmQqFPeBcAylQk4uTxPv+2OVqkgN88UM5zE/euZp2Ceo4EPnQJqyyG2lhLaBy8bC3BMoZkdXH9coEJlSd8ELA==",
+      "type": "package",
+      "path": "syncfusion.themes.office2019colorful.wpf/21.2.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "README.md",
+        "lib/net40/Syncfusion.Themes.Office2019Colorful.WPF.dll",
+        "lib/net40/Syncfusion.Themes.Office2019Colorful.WPF.xml",
+        "lib/net45/Syncfusion.Themes.Office2019Colorful.WPF.dll",
+        "lib/net45/Syncfusion.Themes.Office2019Colorful.WPF.xml",
+        "lib/net451/Syncfusion.Themes.Office2019Colorful.WPF.dll",
+        "lib/net451/Syncfusion.Themes.Office2019Colorful.WPF.xml",
+        "lib/net46/Syncfusion.Themes.Office2019Colorful.WPF.dll",
+        "lib/net46/Syncfusion.Themes.Office2019Colorful.WPF.xml",
+        "lib/net6.0-windows7.0/Syncfusion.Themes.Office2019Colorful.WPF.dll",
+        "lib/net6.0-windows7.0/Syncfusion.Themes.Office2019Colorful.WPF.xml",
+        "syncfusion.themes.office2019colorful.wpf.21.2.3.nupkg.sha512",
+        "syncfusion.themes.office2019colorful.wpf.nuspec",
+        "syncfusion_logo.png"
+      ]
+    },
+    "Syncfusion.Tools.WPF/21.2.3": {
+      "sha512": "80KeNbW8OfIzXvsfMPlU5so7bi7ndA/o+XG9zAR2+HbyFKbCM/gh/KjKVhlsvSTmC56cS4OoHUNif0DLrVhTbQ==",
+      "type": "package",
+      "path": "syncfusion.tools.wpf/21.2.3",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "README.md",
+        "lib/net40/Design/Syncfusion.Design.Wpf.dll",
+        "lib/net40/Design/Syncfusion.Tools.WPF.DesignTools.dll",
+        "lib/net40/Design/Syncfusion.Tools.Wpf.Expression.Design.dll",
+        "lib/net40/Design/Syncfusion.Tools.Wpf.VisualStudio.Design.dll",
+        "lib/net40/Design/Syncfusion.Tools.Wpf.dll.Design.dll",
+        "lib/net40/Syncfusion.Tools.WPF.dll",
+        "lib/net40/Syncfusion.Tools.WPF.xml",
+        "lib/net45/Design/Syncfusion.Design.Wpf.dll",
+        "lib/net45/Design/Syncfusion.Tools.WPF.DesignTools.dll",
+        "lib/net45/Design/Syncfusion.Tools.Wpf.Expression.Design.dll",
+        "lib/net45/Design/Syncfusion.Tools.Wpf.VisualStudio.Design.dll",
+        "lib/net45/Design/Syncfusion.Tools.Wpf.dll.Design.dll",
+        "lib/net45/Syncfusion.Tools.WPF.dll",
+        "lib/net45/Syncfusion.Tools.WPF.xml",
+        "lib/net451/Design/Syncfusion.Design.Wpf.dll",
+        "lib/net451/Design/Syncfusion.Tools.WPF.DesignTools.dll",
+        "lib/net451/Design/Syncfusion.Tools.Wpf.Expression.Design.dll",
+        "lib/net451/Design/Syncfusion.Tools.Wpf.VisualStudio.Design.dll",
+        "lib/net451/Design/Syncfusion.Tools.Wpf.dll.Design.dll",
+        "lib/net451/Syncfusion.Tools.WPF.dll",
+        "lib/net451/Syncfusion.Tools.WPF.xml",
+        "lib/net46/Design/Syncfusion.Design.Wpf.dll",
+        "lib/net46/Design/Syncfusion.Tools.WPF.DesignTools.dll",
+        "lib/net46/Design/Syncfusion.Tools.Wpf.Expression.Design.dll",
+        "lib/net46/Design/Syncfusion.Tools.Wpf.VisualStudio.Design.dll",
+        "lib/net46/Design/Syncfusion.Tools.Wpf.dll.Design.dll",
+        "lib/net46/Syncfusion.Tools.WPF.dll",
+        "lib/net46/Syncfusion.Tools.WPF.xml",
+        "lib/net6.0-windows7.0/Design/Syncfusion.Tools.WPF.DesignTools.dll",
+        "lib/net6.0-windows7.0/Syncfusion.Tools.WPF.dll",
+        "lib/net6.0-windows7.0/Syncfusion.Tools.WPF.xml",
+        "syncfusion.tools.wpf.21.2.3.nupkg.sha512",
+        "syncfusion.tools.wpf.nuspec",
+        "syncfusion_logo.png",
+        "tools/VisualStudioToolsManifest.xml"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "Syncfusion.Data.WPF >= 21.2.3",
+      "Syncfusion.Edit.WPF >= 21.2.3",
+      "Syncfusion.Grid.WPF >= 21.2.3",
+      "Syncfusion.GridCommon.WPF >= 21.2.3",
+      "Syncfusion.Licensing >= 21.2.3",
+      "Syncfusion.Linq.Base >= 21.2.3",
+      "Syncfusion.PropertyGrid.WPF >= 21.2.3",
+      "Syncfusion.SfChromelessWindow.WPF >= 21.2.3",
+      "Syncfusion.SfGrid.WPF >= 21.2.3",
+      "Syncfusion.SfShared.WPF >= 21.2.3",
+      "Syncfusion.SfSkinManager.WPF >= 21.2.3",
+      "Syncfusion.Shared.WPF >= 21.2.3",
+      "Syncfusion.Themes.Office2019Colorful.WPF >= 21.2.3",
+      "Syncfusion.Tools.WPF >= 21.2.3"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\jay\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Syncfusion\\Essential Studio\\WPF\\21.2.3\\ToolboxNuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\git\\wpf-demos\\showcase\\visualstudio\\syncfusion.visualstudiodemo.wpf_lib_60.csproj",
+      "projectName": "syncfusion.visualstudiodemo.wpf",
+      "projectPath": "D:\\git\\wpf-demos\\showcase\\visualstudio\\syncfusion.visualstudiodemo.wpf_lib_60.csproj",
+      "packagesPath": "C:\\Users\\jay\\.nuget\\packages\\",
+      "outputPath": "D:\\git\\wpf-demos\\showcase\\visualstudio\\obj_60\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Syncfusion\\Essential Studio\\WPF\\21.2.3\\ToolboxNuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\jay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Syncfusion Toolbox for WPF.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "dependencies": {
+          "Syncfusion.Data.WPF": {
+            "target": "Package",
+            "version": "[21.2.3, )"
+          },
+          "Syncfusion.Edit.WPF": {
+            "target": "Package",
+            "version": "[21.2.3, )"
+          },
+          "Syncfusion.Grid.WPF": {
+            "target": "Package",
+            "version": "[21.2.3, )"
+          },
+          "Syncfusion.GridCommon.WPF": {
+            "target": "Package",
+            "version": "[21.2.3, )"
+          },
+          "Syncfusion.Licensing": {
+            "target": "Package",
+            "version": "[21.2.3, )"
+          },
+          "Syncfusion.Linq.Base": {
+            "target": "Package",
+            "version": "[21.2.3, )"
+          },
+          "Syncfusion.PropertyGrid.WPF": {
+            "target": "Package",
+            "version": "[21.2.3, )"
+          },
+          "Syncfusion.SfChromelessWindow.WPF": {
+            "target": "Package",
+            "version": "[21.2.3, )"
+          },
+          "Syncfusion.SfGrid.WPF": {
+            "target": "Package",
+            "version": "[21.2.3, )"
+          },
+          "Syncfusion.SfShared.WPF": {
+            "target": "Package",
+            "version": "[21.2.3, )"
+          },
+          "Syncfusion.SfSkinManager.WPF": {
+            "target": "Package",
+            "version": "[21.2.3, )"
+          },
+          "Syncfusion.Shared.WPF": {
+            "target": "Package",
+            "version": "[21.2.3, )"
+          },
+          "Syncfusion.Themes.Office2019Colorful.WPF": {
+            "target": "Package",
+            "version": "[21.2.3, )"
+          },
+          "Syncfusion.Tools.WPF": {
+            "target": "Package",
+            "version": "[21.2.3, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

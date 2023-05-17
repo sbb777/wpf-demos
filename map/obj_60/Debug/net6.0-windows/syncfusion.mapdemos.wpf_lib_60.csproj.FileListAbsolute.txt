@@ -1,0 +1,2 @@
+D:\git\wpf-demos\map\obj_60\Debug\net6.0-windows\syncfusion.mapdemos.wpf_lib_60.csproj.AssemblyReference.cache
+D:\git\wpf-demos\map\obj_60\Debug\net6.0-windows\syncfusion.mapdemos.wpf_MarkupCompile.cache

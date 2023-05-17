@@ -1,0 +1,11 @@
+D:\git\wpf-demos\showcase\diagram builder\obj_60\Debug\net6.0-windows\syncfusion.diagrambuilder.wpf_lib_60.csproj.AssemblyReference.cache
+D:\git\wpf-demos\showcase\diagram builder\obj_60\Debug\net6.0-windows\BPMN\BPMNStencil.g.cs
+D:\git\wpf-demos\showcase\diagram builder\obj_60\Debug\net6.0-windows\FlowChart\FlowStencil.g.cs
+D:\git\wpf-demos\showcase\diagram builder\obj_60\Debug\net6.0-windows\FlowChart\ShapePanel.g.cs
+D:\git\wpf-demos\showcase\diagram builder\obj_60\Debug\net6.0-windows\LogicCircuit\LogicalCircuitStencil.g.cs
+D:\git\wpf-demos\showcase\diagram builder\obj_60\Debug\net6.0-windows\Network\NetworkStencil.g.cs
+D:\git\wpf-demos\showcase\diagram builder\obj_60\Debug\net6.0-windows\View\BlankStencil.g.cs
+D:\git\wpf-demos\showcase\diagram builder\obj_60\Debug\net6.0-windows\View\MainWindow.g.cs
+D:\git\wpf-demos\showcase\diagram builder\obj_60\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\git\wpf-demos\showcase\diagram builder\obj_60\Debug\net6.0-windows\syncfusion.diagrambuilder.wpf_MarkupCompile.cache
+D:\git\wpf-demos\showcase\diagram builder\obj_60\Debug\net6.0-windows\syncfusion.diagrambuilder.wpf_MarkupCompile.lref

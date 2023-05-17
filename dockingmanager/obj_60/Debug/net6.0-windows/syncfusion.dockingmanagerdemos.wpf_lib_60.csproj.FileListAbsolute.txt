@@ -1,0 +1,9 @@
+D:\git\wpf-demos\dockingmanager\obj_60\Debug\net6.0-windows\syncfusion.dockingmanagerdemos.wpf_lib_60.csproj.AssemblyReference.cache
+D:\git\wpf-demos\dockingmanager\obj_60\Debug\net6.0-windows\Common\View\WPFControls.baml
+D:\git\wpf-demos\dockingmanager\obj_60\Debug\net6.0-windows\LinkedManager\LinkedManager.baml
+D:\git\wpf-demos\dockingmanager\obj_60\Debug\net6.0-windows\DockingTouch\DockingTouch.g.cs
+D:\git\wpf-demos\dockingmanager\obj_60\Debug\net6.0-windows\LinkedManager\LinkedManager.g.cs
+D:\git\wpf-demos\dockingmanager\obj_60\Debug\net6.0-windows\StatePersistence\StatePersistence.g.cs
+D:\git\wpf-demos\dockingmanager\obj_60\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\git\wpf-demos\dockingmanager\obj_60\Debug\net6.0-windows\syncfusion.dockingmanagerdemos.wpf_MarkupCompile.cache
+D:\git\wpf-demos\dockingmanager\obj_60\Debug\net6.0-windows\syncfusion.dockingmanagerdemos.wpf_MarkupCompile.lref

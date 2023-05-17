@@ -1,0 +1,6 @@
+D:\git\wpf-demos\gantt\obj_60\Debug\net6.0-windows\syncfusion.ganttdemos.wpf_lib_60.csproj.AssemblyReference.cache
+D:\git\wpf-demos\gantt\obj_60\Debug\net6.0-windows\Data\NodeStyle.baml
+D:\git\wpf-demos\gantt\obj_60\Debug\net6.0-windows\Views\StatisticsWindow.g.cs
+D:\git\wpf-demos\gantt\obj_60\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\git\wpf-demos\gantt\obj_60\Debug\net6.0-windows\syncfusion.ganttdemos.wpf_MarkupCompile.cache
+D:\git\wpf-demos\gantt\obj_60\Debug\net6.0-windows\syncfusion.ganttdemos.wpf_MarkupCompile.lref

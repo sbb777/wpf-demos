@@ -1,0 +1,9 @@
+D:\git\wpf-demos\showcase\workflow editor\obj_60\Debug\net6.0-windows\syncfusion.workfloweditor.wpf_lib_60.csproj.AssemblyReference.cache
+D:\git\wpf-demos\showcase\workflow editor\obj_60\Debug\net6.0-windows\Views\DiagramFrontPage.g.cs
+D:\git\wpf-demos\showcase\workflow editor\obj_60\Debug\net6.0-windows\Views\ProcessAutomationDiagram.g.cs
+D:\git\wpf-demos\showcase\workflow editor\obj_60\Debug\net6.0-windows\Views\PropertyEditor.g.cs
+D:\git\wpf-demos\showcase\workflow editor\obj_60\Debug\net6.0-windows\Views\ValueEditor.g.cs
+D:\git\wpf-demos\showcase\workflow editor\obj_60\Debug\net6.0-windows\Views\WorkFlowEditorDemo.g.cs
+D:\git\wpf-demos\showcase\workflow editor\obj_60\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\git\wpf-demos\showcase\workflow editor\obj_60\Debug\net6.0-windows\syncfusion.workfloweditor.wpf_MarkupCompile.cache
+D:\git\wpf-demos\showcase\workflow editor\obj_60\Debug\net6.0-windows\syncfusion.workfloweditor.wpf_MarkupCompile.lref

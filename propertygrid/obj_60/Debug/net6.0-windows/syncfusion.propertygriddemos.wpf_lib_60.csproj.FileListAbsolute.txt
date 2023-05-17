@@ -1,0 +1,5 @@
+D:\git\wpf-demos\propertygrid\obj_60\Debug\net6.0-windows\syncfusion.propertygriddemos.wpf_lib_60.csproj.AssemblyReference.cache
+D:\git\wpf-demos\propertygrid\obj_60\Debug\net6.0-windows\Custom Editor\ImageBrowser.g.cs
+D:\git\wpf-demos\propertygrid\obj_60\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\git\wpf-demos\propertygrid\obj_60\Debug\net6.0-windows\syncfusion.propertygriddemos.wpf_MarkupCompile.cache
+D:\git\wpf-demos\propertygrid\obj_60\Debug\net6.0-windows\syncfusion.propertygriddemos.wpf_MarkupCompile.lref

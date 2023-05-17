@@ -1,0 +1,16 @@
+D:\git\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\syncfusion.brainstormingdiagram.wpf_lib_60.csproj.AssemblyReference.cache
+D:\git\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\View\BrainstormingDiagramDemo.g.cs
+D:\git\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\View\CreateFileButton.g.cs
+D:\git\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\View\CreateNewWindow.g.cs
+D:\git\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\View\DiagramStyleWindow.g.cs
+D:\git\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\View\MenuBar.g.cs
+D:\git\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\View\MessageBoxWindow.g.cs
+D:\git\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\View\MultipleSubTopicWindow.g.cs
+D:\git\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\View\RecentFileButton.g.cs
+D:\git\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\View\StatusBar.g.cs
+D:\git\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\View\TemplateFileButton.g.cs
+D:\git\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\View\TopicChangeWindow.g.cs
+D:\git\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\View\ZoomPanWindow.g.cs
+D:\git\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\git\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\syncfusion.brainstormingdiagram.wpf_MarkupCompile.cache
+D:\git\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\syncfusion.brainstormingdiagram.wpf_MarkupCompile.lref

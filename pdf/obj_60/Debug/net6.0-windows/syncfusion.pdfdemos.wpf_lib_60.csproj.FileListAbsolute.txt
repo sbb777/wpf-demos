@@ -1,0 +1,2 @@
+D:\git\wpf-demos\pdf\obj_60\Debug\net6.0-windows\syncfusion.pdfdemos.wpf_lib_60.csproj.AssemblyReference.cache
+D:\git\wpf-demos\pdf\obj_60\Debug\net6.0-windows\syncfusion.pdfdemos.wpf_MarkupCompile.cache

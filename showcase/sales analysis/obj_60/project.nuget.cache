@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "/evS6VWgnqF9ruEgxCyO45Moip9oPzzi+xeFjOdLJkNsjJ8BtCDCGroie8q8cnoGIRaVJGe+D1uMqzn7/06lMQ==",
+  "success": true,
+  "projectFilePath": "D:\\git\\wpf-demos\\showcase\\sales analysis\\syncfusion.salesanalysis.wpf_lib_60.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.licensing\\21.2.3\\syncfusion.licensing.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.sfchart.wpf\\21.2.3\\syncfusion.sfchart.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.sfgauge.wpf\\21.2.3\\syncfusion.sfgauge.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.sfmaps.wpf\\21.2.3\\syncfusion.sfmaps.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.sfskinmanager.wpf\\21.2.3\\syncfusion.sfskinmanager.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.shared.wpf\\21.2.3\\syncfusion.shared.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.themes.office2019colorful.wpf\\21.2.3\\syncfusion.themes.office2019colorful.wpf.21.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

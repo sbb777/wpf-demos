@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "2bgJ7IPZqBOC1TRsTQoS1pjpLlo+ZIQJFkePqxeuSyQe54Cvx3YHM0bRoE6SEMhrY8asHlLyiF4OKVulBGyq0Q==",
+  "success": true,
+  "projectFilePath": "D:\\git\\wpf-demos\\showcase\\PowerPoint Viewer\\syncfusion.powerpointviewer.wpf_lib_60.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.compression.base\\21.2.3\\syncfusion.compression.base.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.licensing\\21.2.3\\syncfusion.licensing.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.officechart.base\\21.2.3\\syncfusion.officechart.base.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.pdf.wpf\\21.2.3\\syncfusion.pdf.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.presentation.wpf\\21.2.3\\syncfusion.presentation.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.presentationtopdfconverter.wpf\\21.2.3\\syncfusion.presentationtopdfconverter.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.sfchromelesswindow.wpf\\21.2.3\\syncfusion.sfchromelesswindow.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.shared.wpf\\21.2.3\\syncfusion.shared.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.tools.wpf\\21.2.3\\syncfusion.tools.wpf.21.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

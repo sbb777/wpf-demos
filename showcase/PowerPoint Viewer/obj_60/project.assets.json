@@ -1,0 +1,540 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "Syncfusion.Compression.Base/21.2.3": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0-windows7.0/Syncfusion.Compression.Base.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Syncfusion.Compression.Base.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Syncfusion.Licensing/21.2.3": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0-windows7.0/Syncfusion.Licensing.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Syncfusion.Licensing.dll": {}
+        }
+      },
+      "Syncfusion.OfficeChart.Base/21.2.3": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Compression.Base": "21.2.3"
+        },
+        "compile": {
+          "lib/net6.0-windows7.0/Syncfusion.OfficeChart.Base.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Syncfusion.OfficeChart.Base.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Syncfusion.Pdf.Wpf/21.2.3": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Compression.Base": "21.2.3",
+          "Syncfusion.Licensing": "21.2.3"
+        },
+        "compile": {
+          "lib/net6.0-windows7.0/Syncfusion.Pdf.Base.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Syncfusion.Pdf.Base.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Syncfusion.Presentation.Wpf/21.2.3": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Compression.Base": "21.2.3",
+          "Syncfusion.Licensing": "21.2.3",
+          "Syncfusion.OfficeChart.Base": "21.2.3"
+        },
+        "compile": {
+          "lib/net6.0-windows7.0/Syncfusion.Presentation.Base.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Syncfusion.Presentation.Base.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Syncfusion.PresentationToPdfConverter.Wpf/21.2.3": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Pdf.Wpf": "21.2.3",
+          "Syncfusion.Presentation.Wpf": "21.2.3"
+        },
+        "compile": {
+          "lib/net6.0-windows7.0/Syncfusion.PresentationToPdfConverter.Base.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Syncfusion.PresentationToPdfConverter.Base.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Syncfusion.SfChromelessWindow.WPF/21.2.3": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Licensing": "21.2.3"
+        },
+        "compile": {
+          "lib/net6.0-windows7.0/Syncfusion.SfChromelessWindow.WPF.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Syncfusion.SfChromelessWindow.WPF.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Syncfusion.Shared.WPF/21.2.3": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Licensing": "21.2.3"
+        },
+        "compile": {
+          "lib/net6.0-windows7.0/Syncfusion.Shared.WPF.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Syncfusion.Shared.WPF.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Syncfusion.Tools.WPF/21.2.3": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Licensing": "21.2.3",
+          "Syncfusion.Shared.WPF": "21.2.3"
+        },
+        "compile": {
+          "lib/net6.0-windows7.0/Syncfusion.Tools.WPF.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Syncfusion.Tools.WPF.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Syncfusion.Compression.Base/21.2.3": {
+      "sha512": "r3Mfi0+x7P6UgxcUg5TxvT1yGa7uOlRzNEpw/f/NpAo4NClCszACMMIPs2ZSTIHfCCZzrbYfWmzTRCHsguND6A==",
+      "type": "package",
+      "path": "syncfusion.compression.base/21.2.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "lib/net40/Syncfusion.Compression.Base.dll",
+        "lib/net40/Syncfusion.Compression.Base.xml",
+        "lib/net45/Syncfusion.Compression.Base.dll",
+        "lib/net45/Syncfusion.Compression.Base.xml",
+        "lib/net451/Syncfusion.Compression.Base.dll",
+        "lib/net451/Syncfusion.Compression.Base.xml",
+        "lib/net46/Syncfusion.Compression.Base.dll",
+        "lib/net46/Syncfusion.Compression.Base.xml",
+        "lib/net6.0-windows7.0/Syncfusion.Compression.Base.dll",
+        "lib/net6.0-windows7.0/Syncfusion.Compression.Base.xml",
+        "syncfusion.compression.base.21.2.3.nupkg.sha512",
+        "syncfusion.compression.base.nuspec",
+        "syncfusion_logo.png"
+      ]
+    },
+    "Syncfusion.Licensing/21.2.3": {
+      "sha512": "9ZS+tE48qD3jtE0brkf0ZA5JnvxHOxll6IwJb7kNoJuJPuOUwLUGSmJ82fQ5VFRO5VtwONvKHDnvdJ5nAzeXKw==",
+      "type": "package",
+      "path": "syncfusion.licensing/21.2.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "lib/MonoAndroid90/Syncfusion.Licensing.dll",
+        "lib/Xamarin.Mac/Syncfusion.Licensing.dll",
+        "lib/Xamarin.iOS10/Syncfusion.Licensing.dll",
+        "lib/net40/Syncfusion.Licensing.dll",
+        "lib/net45/Syncfusion.Licensing.dll",
+        "lib/net451/Syncfusion.Licensing.dll",
+        "lib/net46/Syncfusion.Licensing.dll",
+        "lib/net6.0-windows7.0/Syncfusion.Licensing.dll",
+        "lib/net6.0/Syncfusion.Licensing.dll",
+        "lib/net7.0-windows7.0/Syncfusion.Licensing.dll",
+        "lib/net7.0/Syncfusion.Licensing.dll",
+        "lib/netstandard2.0/Syncfusion.Licensing.dll",
+        "lib/uap10.0/Syncfusion.Licensing.dll",
+        "syncfusion.licensing.21.2.3.nupkg.sha512",
+        "syncfusion.licensing.nuspec",
+        "syncfusion_logo.png"
+      ]
+    },
+    "Syncfusion.OfficeChart.Base/21.2.3": {
+      "sha512": "BI/vVLEL4+sazI/FK7VZ427U/q73ALfZeCbdv4YJRXVH9SOVZBiuGpw3Vpe4U1sV8pobLQdAfKJN3kOeMvOB9w==",
+      "type": "package",
+      "path": "syncfusion.officechart.base/21.2.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "lib/net40/Syncfusion.OfficeChart.Base.dll",
+        "lib/net40/Syncfusion.OfficeChart.Base.xml",
+        "lib/net45/Syncfusion.OfficeChart.Base.dll",
+        "lib/net45/Syncfusion.OfficeChart.Base.xml",
+        "lib/net451/Syncfusion.OfficeChart.Base.dll",
+        "lib/net451/Syncfusion.OfficeChart.Base.xml",
+        "lib/net46/Syncfusion.OfficeChart.Base.dll",
+        "lib/net46/Syncfusion.OfficeChart.Base.xml",
+        "lib/net6.0-windows7.0/Syncfusion.OfficeChart.Base.dll",
+        "lib/net6.0-windows7.0/Syncfusion.OfficeChart.Base.xml",
+        "syncfusion.officechart.base.21.2.3.nupkg.sha512",
+        "syncfusion.officechart.base.nuspec",
+        "syncfusion_logo.png"
+      ]
+    },
+    "Syncfusion.Pdf.Wpf/21.2.3": {
+      "sha512": "Eqa4LPnrWJlu+XCR+usPgH2UqXg02Wp4lssjPesx3zM8z0JQrKSEcgc0NXDIPufRpk80k2NuGcZkdluUR3tIWA==",
+      "type": "package",
+      "path": "syncfusion.pdf.wpf/21.2.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "README.md",
+        "lib/net40/Syncfusion.Pdf.Base.dll",
+        "lib/net40/Syncfusion.Pdf.Base.xml",
+        "lib/net45/Syncfusion.Pdf.Base.dll",
+        "lib/net45/Syncfusion.Pdf.Base.xml",
+        "lib/net451/Syncfusion.Pdf.Base.dll",
+        "lib/net451/Syncfusion.Pdf.Base.xml",
+        "lib/net46/Syncfusion.Pdf.Base.dll",
+        "lib/net46/Syncfusion.Pdf.Base.xml",
+        "lib/net6.0-windows7.0/Syncfusion.Pdf.Base.dll",
+        "lib/net6.0-windows7.0/Syncfusion.Pdf.Base.xml",
+        "syncfusion.pdf.wpf.21.2.3.nupkg.sha512",
+        "syncfusion.pdf.wpf.nuspec",
+        "syncfusion_logo.png"
+      ]
+    },
+    "Syncfusion.Presentation.Wpf/21.2.3": {
+      "sha512": "1CVXTyygaAfIMs5LmFj6V2kJOxjQ13OTKT+8kHk5fIIWlS8JPctOn2Mwdtz7nb1Zxs0AxAphmpe7yVrHwyvm0A==",
+      "type": "package",
+      "path": "syncfusion.presentation.wpf/21.2.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "README.md",
+        "lib/net40/Syncfusion.Presentation.Base.dll",
+        "lib/net40/Syncfusion.Presentation.Base.xml",
+        "lib/net45/Syncfusion.Presentation.Base.dll",
+        "lib/net45/Syncfusion.Presentation.Base.xml",
+        "lib/net451/Syncfusion.Presentation.Base.dll",
+        "lib/net451/Syncfusion.Presentation.Base.xml",
+        "lib/net46/Syncfusion.Presentation.Base.dll",
+        "lib/net46/Syncfusion.Presentation.Base.xml",
+        "lib/net6.0-windows7.0/Syncfusion.Presentation.Base.dll",
+        "lib/net6.0-windows7.0/Syncfusion.Presentation.Base.xml",
+        "syncfusion.presentation.wpf.21.2.3.nupkg.sha512",
+        "syncfusion.presentation.wpf.nuspec",
+        "syncfusion_logo.png"
+      ]
+    },
+    "Syncfusion.PresentationToPdfConverter.Wpf/21.2.3": {
+      "sha512": "37mjYR2AGbeJ9iicTeZxF6NqpzSnIWgNeBSrHzRZGwS9Z2/E3L/aRVESZUK1pDRC98tR2tVxRNgeVojvD2pOww==",
+      "type": "package",
+      "path": "syncfusion.presentationtopdfconverter.wpf/21.2.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "README.md",
+        "lib/net40/Syncfusion.PresentationToPdfConverter.Base.dll",
+        "lib/net40/Syncfusion.PresentationToPdfConverter.Base.xml",
+        "lib/net45/Syncfusion.PresentationToPdfConverter.Base.dll",
+        "lib/net45/Syncfusion.PresentationToPdfConverter.Base.xml",
+        "lib/net451/Syncfusion.PresentationToPdfConverter.Base.dll",
+        "lib/net451/Syncfusion.PresentationToPdfConverter.Base.xml",
+        "lib/net46/Syncfusion.PresentationToPdfConverter.Base.dll",
+        "lib/net46/Syncfusion.PresentationToPdfConverter.Base.xml",
+        "lib/net6.0-windows7.0/Syncfusion.PresentationToPdfConverter.Base.dll",
+        "lib/net6.0-windows7.0/Syncfusion.PresentationToPdfConverter.Base.xml",
+        "syncfusion.presentationtopdfconverter.wpf.21.2.3.nupkg.sha512",
+        "syncfusion.presentationtopdfconverter.wpf.nuspec",
+        "syncfusion_logo.png"
+      ]
+    },
+    "Syncfusion.SfChromelessWindow.WPF/21.2.3": {
+      "sha512": "rqNJkd/YAAl4i01WaGZV3JlcF5Qgm0DWodtiB6AvQdwB2YK9Y3XmA0fL6eZwcUbPUT1Bnm4scE5ztYvz00+aZw==",
+      "type": "package",
+      "path": "syncfusion.sfchromelesswindow.wpf/21.2.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "README.md",
+        "lib/net40/Design/Syncfusion.SfChromelessWindow.WPF.Expression.Design.dll",
+        "lib/net40/Design/Syncfusion.SfChromelessWindow.WPF.VisualStudio.Design.dll",
+        "lib/net40/Syncfusion.SfChromelessWindow.WPF.dll",
+        "lib/net40/Syncfusion.SfChromelessWindow.WPF.xml",
+        "lib/net45/Design/Syncfusion.SfChromelessWindow.WPF.Expression.Design.dll",
+        "lib/net45/Design/Syncfusion.SfChromelessWindow.WPF.VisualStudio.Design.dll",
+        "lib/net45/Syncfusion.SfChromelessWindow.WPF.dll",
+        "lib/net45/Syncfusion.SfChromelessWindow.WPF.xml",
+        "lib/net451/Design/Syncfusion.SfChromelessWindow.WPF.Expression.Design.dll",
+        "lib/net451/Design/Syncfusion.SfChromelessWindow.WPF.VisualStudio.Design.dll",
+        "lib/net451/Syncfusion.SfChromelessWindow.WPF.dll",
+        "lib/net451/Syncfusion.SfChromelessWindow.WPF.xml",
+        "lib/net46/Design/Syncfusion.SfChromelessWindow.WPF.Expression.Design.dll",
+        "lib/net46/Design/Syncfusion.SfChromelessWindow.WPF.VisualStudio.Design.dll",
+        "lib/net46/Syncfusion.SfChromelessWindow.WPF.dll",
+        "lib/net46/Syncfusion.SfChromelessWindow.WPF.xml",
+        "lib/net6.0-windows7.0/Syncfusion.SfChromelessWindow.WPF.dll",
+        "lib/net6.0-windows7.0/Syncfusion.SfChromelessWindow.WPF.xml",
+        "syncfusion.sfchromelesswindow.wpf.21.2.3.nupkg.sha512",
+        "syncfusion.sfchromelesswindow.wpf.nuspec",
+        "syncfusion_logo.png"
+      ]
+    },
+    "Syncfusion.Shared.WPF/21.2.3": {
+      "sha512": "qtdQtWvsvhiKSMfUyL6dFMADKFuo6TUNzABVr38wQl/2cY4pEjqnX1afb15jMJNYvIknp7oyRH1bIktu8+idOw==",
+      "type": "package",
+      "path": "syncfusion.shared.wpf/21.2.3",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "README.md",
+        "lib/net40/Design/Syncfusion.Design.Wpf.dll",
+        "lib/net40/Design/Syncfusion.Shared.WPF.DesignTools.dll",
+        "lib/net40/Design/Syncfusion.Shared.Wpf.Expression.Design.dll",
+        "lib/net40/Design/Syncfusion.Shared.Wpf.VisualStudio.Design.dll",
+        "lib/net40/Design/Syncfusion.Shared.Wpf.dll.Design.dll",
+        "lib/net40/Syncfusion.Shared.WPF.dll",
+        "lib/net40/Syncfusion.Shared.WPF.xml",
+        "lib/net45/Design/Syncfusion.Design.Wpf.dll",
+        "lib/net45/Design/Syncfusion.Shared.WPF.DesignTools.dll",
+        "lib/net45/Design/Syncfusion.Shared.Wpf.Expression.Design.dll",
+        "lib/net45/Design/Syncfusion.Shared.Wpf.VisualStudio.Design.dll",
+        "lib/net45/Design/Syncfusion.Shared.Wpf.dll.Design.dll",
+        "lib/net45/Syncfusion.Shared.WPF.dll",
+        "lib/net45/Syncfusion.Shared.WPF.xml",
+        "lib/net451/Design/Syncfusion.Design.Wpf.dll",
+        "lib/net451/Design/Syncfusion.Shared.WPF.DesignTools.dll",
+        "lib/net451/Design/Syncfusion.Shared.Wpf.Expression.Design.dll",
+        "lib/net451/Design/Syncfusion.Shared.Wpf.VisualStudio.Design.dll",
+        "lib/net451/Design/Syncfusion.Shared.Wpf.dll.Design.dll",
+        "lib/net451/Syncfusion.Shared.WPF.dll",
+        "lib/net451/Syncfusion.Shared.WPF.xml",
+        "lib/net46/Design/Syncfusion.Design.Wpf.dll",
+        "lib/net46/Design/Syncfusion.Shared.WPF.DesignTools.dll",
+        "lib/net46/Design/Syncfusion.Shared.Wpf.Expression.Design.dll",
+        "lib/net46/Design/Syncfusion.Shared.Wpf.VisualStudio.Design.dll",
+        "lib/net46/Design/Syncfusion.Shared.Wpf.dll.Design.dll",
+        "lib/net46/Syncfusion.Shared.WPF.dll",
+        "lib/net46/Syncfusion.Shared.WPF.xml",
+        "lib/net6.0-windows7.0/Design/Syncfusion.Shared.WPF.DesignTools.dll",
+        "lib/net6.0-windows7.0/Syncfusion.Shared.WPF.dll",
+        "lib/net6.0-windows7.0/Syncfusion.Shared.WPF.xml",
+        "syncfusion.shared.wpf.21.2.3.nupkg.sha512",
+        "syncfusion.shared.wpf.nuspec",
+        "syncfusion_logo.png",
+        "tools/VisualStudioToolsManifest.xml"
+      ]
+    },
+    "Syncfusion.Tools.WPF/21.2.3": {
+      "sha512": "80KeNbW8OfIzXvsfMPlU5so7bi7ndA/o+XG9zAR2+HbyFKbCM/gh/KjKVhlsvSTmC56cS4OoHUNif0DLrVhTbQ==",
+      "type": "package",
+      "path": "syncfusion.tools.wpf/21.2.3",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "README.md",
+        "lib/net40/Design/Syncfusion.Design.Wpf.dll",
+        "lib/net40/Design/Syncfusion.Tools.WPF.DesignTools.dll",
+        "lib/net40/Design/Syncfusion.Tools.Wpf.Expression.Design.dll",
+        "lib/net40/Design/Syncfusion.Tools.Wpf.VisualStudio.Design.dll",
+        "lib/net40/Design/Syncfusion.Tools.Wpf.dll.Design.dll",
+        "lib/net40/Syncfusion.Tools.WPF.dll",
+        "lib/net40/Syncfusion.Tools.WPF.xml",
+        "lib/net45/Design/Syncfusion.Design.Wpf.dll",
+        "lib/net45/Design/Syncfusion.Tools.WPF.DesignTools.dll",
+        "lib/net45/Design/Syncfusion.Tools.Wpf.Expression.Design.dll",
+        "lib/net45/Design/Syncfusion.Tools.Wpf.VisualStudio.Design.dll",
+        "lib/net45/Design/Syncfusion.Tools.Wpf.dll.Design.dll",
+        "lib/net45/Syncfusion.Tools.WPF.dll",
+        "lib/net45/Syncfusion.Tools.WPF.xml",
+        "lib/net451/Design/Syncfusion.Design.Wpf.dll",
+        "lib/net451/Design/Syncfusion.Tools.WPF.DesignTools.dll",
+        "lib/net451/Design/Syncfusion.Tools.Wpf.Expression.Design.dll",
+        "lib/net451/Design/Syncfusion.Tools.Wpf.VisualStudio.Design.dll",
+        "lib/net451/Design/Syncfusion.Tools.Wpf.dll.Design.dll",
+        "lib/net451/Syncfusion.Tools.WPF.dll",
+        "lib/net451/Syncfusion.Tools.WPF.xml",
+        "lib/net46/Design/Syncfusion.Design.Wpf.dll",
+        "lib/net46/Design/Syncfusion.Tools.WPF.DesignTools.dll",
+        "lib/net46/Design/Syncfusion.Tools.Wpf.Expression.Design.dll",
+        "lib/net46/Design/Syncfusion.Tools.Wpf.VisualStudio.Design.dll",
+        "lib/net46/Design/Syncfusion.Tools.Wpf.dll.Design.dll",
+        "lib/net46/Syncfusion.Tools.WPF.dll",
+        "lib/net46/Syncfusion.Tools.WPF.xml",
+        "lib/net6.0-windows7.0/Design/Syncfusion.Tools.WPF.DesignTools.dll",
+        "lib/net6.0-windows7.0/Syncfusion.Tools.WPF.dll",
+        "lib/net6.0-windows7.0/Syncfusion.Tools.WPF.xml",
+        "syncfusion.tools.wpf.21.2.3.nupkg.sha512",
+        "syncfusion.tools.wpf.nuspec",
+        "syncfusion_logo.png",
+        "tools/VisualStudioToolsManifest.xml"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "Syncfusion.Compression.Base >= 21.2.3",
+      "Syncfusion.Licensing >= 21.2.3",
+      "Syncfusion.OfficeChart.Base >= 21.2.3",
+      "Syncfusion.Pdf.Wpf >= 21.2.3",
+      "Syncfusion.Presentation.Wpf >= 21.2.3",
+      "Syncfusion.PresentationToPdfConverter.Wpf >= 21.2.3",
+      "Syncfusion.SfChromelessWindow.Wpf >= 21.2.3",
+      "Syncfusion.Shared.Wpf >= 21.2.3",
+      "Syncfusion.Tools.Wpf >= 21.2.3"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\jay\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Syncfusion\\Essential Studio\\WPF\\21.2.3\\ToolboxNuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\git\\wpf-demos\\showcase\\PowerPoint Viewer\\syncfusion.powerpointviewer.wpf_lib_60.csproj",
+      "projectName": "syncfusion.powerpointviewer.wpf",
+      "projectPath": "D:\\git\\wpf-demos\\showcase\\PowerPoint Viewer\\syncfusion.powerpointviewer.wpf_lib_60.csproj",
+      "packagesPath": "C:\\Users\\jay\\.nuget\\packages\\",
+      "outputPath": "D:\\git\\wpf-demos\\showcase\\PowerPoint Viewer\\obj_60\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Syncfusion\\Essential Studio\\WPF\\21.2.3\\ToolboxNuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\jay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Syncfusion Toolbox for WPF.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "dependencies": {
+          "Syncfusion.Compression.Base": {
+            "target": "Package",
+            "version": "[21.2.3, )"
+          },
+          "Syncfusion.Licensing": {
+            "target": "Package",
+            "version": "[21.2.3, )"
+          },
+          "Syncfusion.OfficeChart.Base": {
+            "target": "Package",
+            "version": "[21.2.3, )"
+          },
+          "Syncfusion.Pdf.Wpf": {
+            "target": "Package",
+            "version": "[21.2.3, )"
+          },
+          "Syncfusion.Presentation.Wpf": {
+            "target": "Package",
+            "version": "[21.2.3, )"
+          },
+          "Syncfusion.PresentationToPdfConverter.Wpf": {
+            "target": "Package",
+            "version": "[21.2.3, )"
+          },
+          "Syncfusion.SfChromelessWindow.Wpf": {
+            "target": "Package",
+            "version": "[21.2.3, )"
+          },
+          "Syncfusion.Shared.Wpf": {
+            "target": "Package",
+            "version": "[21.2.3, )"
+          },
+          "Syncfusion.Tools.Wpf": {
+            "target": "Package",
+            "version": "[21.2.3, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

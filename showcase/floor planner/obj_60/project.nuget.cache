@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sr6ei0eW1DSlJJQoI0k0VIZy3jZY7G4B6eUjW2Mk2rAx+DUlzC+v0bIYn0AN2BBFI7J8hODECncylg4fMzi+uA==",
+  "success": true,
+  "projectFilePath": "D:\\git\\wpf-demos\\showcase\\floor planner\\syncfusion.floorplanner.wpf_lib_60.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.compression.base\\21.2.3\\syncfusion.compression.base.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.licensing\\21.2.3\\syncfusion.licensing.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.pdf.wpf\\21.2.3\\syncfusion.pdf.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.sfcolorpalette.wpf\\21.2.3\\syncfusion.sfcolorpalette.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.sfdiagram.wpf\\21.2.3\\syncfusion.sfdiagram.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.sfinput.wpf\\21.2.3\\syncfusion.sfinput.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.sfradialmenu.wpf\\21.2.3\\syncfusion.sfradialmenu.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.sfskinmanager.wpf\\21.2.3\\syncfusion.sfskinmanager.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.shared.wpf\\21.2.3\\syncfusion.shared.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.themes.fluentlight.wpf\\21.2.3\\syncfusion.themes.fluentlight.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.tools.wpf\\21.2.3\\syncfusion.tools.wpf.21.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

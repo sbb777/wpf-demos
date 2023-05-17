@@ -1,0 +1,654 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\git\\wpf-demos\\chart\\syncfusion.chartdemos.wpf_lib_45.csproj": {}
+  },
+  "projects": {
+    "D:\\git\\wpf-demos\\chart\\syncfusion.chartdemos.wpf_lib_45.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\git\\wpf-demos\\chart\\syncfusion.chartdemos.wpf_lib_45.csproj",
+        "projectName": "syncfusion.chartdemos.wpf",
+        "projectPath": "D:\\git\\wpf-demos\\chart\\syncfusion.chartdemos.wpf_lib_45.csproj",
+        "packagesPath": "C:\\Users\\jay\\.nuget\\packages\\",
+        "outputPath": "D:\\git\\wpf-demos\\chart\\obj_45\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Syncfusion\\Essential Studio\\WPF\\21.2.3\\ToolboxNuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Syncfusion Toolbox for WPF.config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "projectReferences": {
+              "D:\\git\\wpf-demos\\common\\syncfusion.demoscommon.wpf_lib_45.csproj": {
+                "projectPath": "D:\\git\\wpf-demos\\common\\syncfusion.demoscommon.wpf_lib_45.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "dependencies": {
+            "Syncfusion.Data.Wpf": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Licensing": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Licensing": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Licensing": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.SfBusyIndicator.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.SfBusyIndicator.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.SfBusyIndicator.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.SfChart.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.SfGrid.Wpf": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.SfInput.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.SfInput.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.SfInput.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.SfNavigationDrawer.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.SfNavigationDrawer.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.SfNavigationDrawer.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.SfSkinManager.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.SfSkinManager.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.SfSkinManager.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Shared.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Shared.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Shared.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.FluentDark.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.FluentDark.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.FluentDark.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.FluentLight.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.FluentLight.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.FluentLight.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.MaterialDark.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.MaterialDark.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.MaterialDark.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.MaterialDarkBlue.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.MaterialDarkBlue.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.MaterialDarkBlue.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.MaterialLight.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.MaterialLight.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.MaterialLight.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.MaterialLightBlue.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.MaterialLightBlue.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.MaterialLightBlue.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.Office2019Black.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.Office2019Black.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.Office2019Black.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.Office2019Colorful.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.Office2019Colorful.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.Office2019Colorful.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.Office2019DarkGray.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.Office2019DarkGray.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.Office2019DarkGray.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.Office2019HighContrast.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.Office2019HighContrast.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.Office2019HighContrast.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.Office2019HighContrastWhite.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.Office2019HighContrastWhite.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.Office2019HighContrastWhite.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.Office2019White.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.Office2019White.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.Office2019White.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.SystemTheme.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.SystemTheme.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.SystemTheme.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.Windows11Dark.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.Windows11Dark.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.Windows11Dark.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.Windows11Light.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.Windows11Light.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.Windows11Light.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Tools.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Tools.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Tools.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\git\\wpf-demos\\common\\syncfusion.demoscommon.wpf_lib_45.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\git\\wpf-demos\\common\\syncfusion.demoscommon.wpf_lib_45.csproj",
+        "projectName": "syncfusion.demoscommon.wpf",
+        "projectPath": "D:\\git\\wpf-demos\\common\\syncfusion.demoscommon.wpf_lib_45.csproj",
+        "packagesPath": "C:\\Users\\jay\\.nuget\\packages\\",
+        "outputPath": "D:\\git\\wpf-demos\\common\\obj_45\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Syncfusion\\Essential Studio\\WPF\\21.2.3\\ToolboxNuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Syncfusion Toolbox for WPF.config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "dependencies": {
+            "Syncfusion.Licensing": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Licensing": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Licensing": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.SfBusyIndicator.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.SfBusyIndicator.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.SfBusyIndicator.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.SfInput.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.SfInput.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.SfInput.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.SfNavigationDrawer.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.SfNavigationDrawer.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.SfNavigationDrawer.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.SfSkinManager.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.SfSkinManager.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.SfSkinManager.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Shared.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Shared.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Shared.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.FluentDark.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.FluentDark.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.FluentDark.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.FluentLight.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.FluentLight.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.FluentLight.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.MaterialDark.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.MaterialDark.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.MaterialDark.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.MaterialDarkBlue.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.MaterialDarkBlue.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.MaterialDarkBlue.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.MaterialLight.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.MaterialLight.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.MaterialLight.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.MaterialLightBlue.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.MaterialLightBlue.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.MaterialLightBlue.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.Office2019Black.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.Office2019Black.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.Office2019Black.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.Office2019Colorful.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.Office2019Colorful.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.Office2019Colorful.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.Office2019DarkGray.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.Office2019DarkGray.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.Office2019DarkGray.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.Office2019HighContrast.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.Office2019HighContrast.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.Office2019HighContrast.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.Office2019HighContrastWhite.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.Office2019HighContrastWhite.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.Office2019HighContrastWhite.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.Office2019White.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.Office2019White.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.Office2019White.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.SystemTheme.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.SystemTheme.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.SystemTheme.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.Windows11Dark.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.Windows11Dark.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.Windows11Dark.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.Windows11Light.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.Windows11Light.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Themes.Windows11Light.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Tools.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Tools.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            },
+            "Syncfusion.Tools.WPF": {
+              "target": "Package",
+              "version": "[21.2.3, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

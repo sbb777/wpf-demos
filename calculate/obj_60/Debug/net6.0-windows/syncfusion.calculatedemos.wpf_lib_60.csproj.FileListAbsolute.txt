@@ -1,0 +1,14 @@
+D:\git\wpf-demos\calculate\obj_60\Debug\net6.0-windows\syncfusion.calculatedemos.wpf_lib_60.csproj.AssemblyReference.cache
+D:\git\wpf-demos\calculate\obj_60\Debug\net6.0-windows\View\CalcQuick\CalcQuickDemo\AlgebraicExpressions.baml
+D:\git\wpf-demos\calculate\obj_60\Debug\net6.0-windows\View\CalcQuick\CalcQuickDemo\AngleForm.baml
+D:\git\wpf-demos\calculate\obj_60\Debug\net6.0-windows\View\CalcQuick\CalcQuickDemo\AutoAngleForm.baml
+D:\git\wpf-demos\calculate\obj_60\Debug\net6.0-windows\View\CalcQuick\CalcQuickDemo\AutoCalcForm.baml
+D:\git\wpf-demos\calculate\obj_60\Debug\net6.0-windows\View\CalcQuick\CalcQuickDemo\ManualCalcForm.baml
+D:\git\wpf-demos\calculate\obj_60\Debug\net6.0-windows\View\CalcQuick\CalcQuickDemo\MoreComplexForm.baml
+D:\git\wpf-demos\calculate\obj_60\Debug\net6.0-windows\View\CalcQuick\CalcQuickDemo\AlgebraicExpressions.g.cs
+D:\git\wpf-demos\calculate\obj_60\Debug\net6.0-windows\View\CalcQuick\CalcQuickDemo\AngleForm.g.cs
+D:\git\wpf-demos\calculate\obj_60\Debug\net6.0-windows\View\CalcQuick\CalcQuickDemo\AutoAngleForm.g.cs
+D:\git\wpf-demos\calculate\obj_60\Debug\net6.0-windows\View\CalcQuick\CalcQuickDemo\AutoCalcForm.g.cs
+D:\git\wpf-demos\calculate\obj_60\Debug\net6.0-windows\View\CalcQuick\CalcQuickDemo\ManualCalcForm.g.cs
+D:\git\wpf-demos\calculate\obj_60\Debug\net6.0-windows\View\CalcQuick\CalcQuickDemo\MoreComplexForm.g.cs
+D:\git\wpf-demos\calculate\obj_60\Debug\net6.0-windows\syncfusion.calculatedemos.wpf_MarkupCompile.cache

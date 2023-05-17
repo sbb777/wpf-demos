@@ -1,0 +1,2 @@
+D:\git\wpf-demos\barcode\obj_60\Debug\net6.0-windows\syncfusion.barcodedemos.wpf_lib_60.csproj.AssemblyReference.cache
+D:\git\wpf-demos\barcode\obj_60\Debug\net6.0-windows\syncfusion.barcodedemos.wpf_MarkupCompile.cache

@@ -1,0 +1,9 @@
+D:\git\wpf-demos\showcase\sales analysis\obj_60\Debug\net6.0-windows\syncfusion.salesanalysis.wpf_lib_60.csproj.AssemblyReference.cache
+D:\git\wpf-demos\showcase\sales analysis\obj_60\Debug\net6.0-windows\Views\Gauge\Gauge.baml
+D:\git\wpf-demos\showcase\sales analysis\obj_60\Debug\net6.0-windows\Views\Chart\Chart.g.cs
+D:\git\wpf-demos\showcase\sales analysis\obj_60\Debug\net6.0-windows\Views\Gauge\Gauge.g.cs
+D:\git\wpf-demos\showcase\sales analysis\obj_60\Debug\net6.0-windows\Views\Maps\Maps.g.cs
+D:\git\wpf-demos\showcase\sales analysis\obj_60\Debug\net6.0-windows\Views\SalesAnalysisDemo.g.cs
+D:\git\wpf-demos\showcase\sales analysis\obj_60\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\git\wpf-demos\showcase\sales analysis\obj_60\Debug\net6.0-windows\syncfusion.salesanalysis.wpf_MarkupCompile.cache
+D:\git\wpf-demos\showcase\sales analysis\obj_60\Debug\net6.0-windows\syncfusion.salesanalysis.wpf_MarkupCompile.lref

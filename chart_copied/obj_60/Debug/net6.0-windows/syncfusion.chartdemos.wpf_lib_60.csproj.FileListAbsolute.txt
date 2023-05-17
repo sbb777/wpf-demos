@@ -1,0 +1,30 @@
+D:\git\wpf-demos\chart\obj_60\Debug\net6.0-windows\syncfusion.chartdemos.wpf_lib_60.csproj.AssemblyReference.cache
+D:\git\wpf-demos\chart\obj_60\Debug\net6.0-windows\Resources\ColorModel.baml
+D:\git\wpf-demos\chart\obj_60\Debug\net6.0-windows\Views\Exporting\ChartView.baml
+D:\git\wpf-demos\chart\obj_60\Debug\net6.0-windows\Views\Circular Charts 3D\DoughnutSeriesDemo3D.g.cs
+D:\git\wpf-demos\chart\obj_60\Debug\net6.0-windows\Views\Circular Charts 3D\PieSeriesDemo3D.g.cs
+D:\git\wpf-demos\chart\obj_60\Debug\net6.0-windows\Views\Customization\ColumnSeries.g.cs
+D:\git\wpf-demos\chart\obj_60\Debug\net6.0-windows\Views\Customization\CustomBarSeries.g.cs
+D:\git\wpf-demos\chart\obj_60\Debug\net6.0-windows\Views\Customization\ScatterSeries.g.cs
+D:\git\wpf-demos\chart\obj_60\Debug\net6.0-windows\Views\Customization\SplineSeries.g.cs
+D:\git\wpf-demos\chart\obj_60\Debug\net6.0-windows\Views\Exporting\ChartView.g.cs
+D:\git\wpf-demos\chart\obj_60\Debug\net6.0-windows\Views\Serialization\DeserializedChartContainer.g.cs
+D:\git\wpf-demos\chart\obj_60\Debug\net6.0-windows\Views\Serialization\SerializedChartContainer.g.cs
+D:\git\wpf-demos\chart\obj_60\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\git\wpf-demos\chart\obj_60\Debug\net6.0-windows\syncfusion.chartdemos.wpf_MarkupCompile.cache
+D:\git\wpf-demos\chart\obj_60\Debug\net6.0-windows\syncfusion.chartdemos.wpf_MarkupCompile.lref
+D:\git\wpf-demos\chart_copied\obj_60\Debug\net6.0-windows\syncfusion.chartdemos.wpf_lib_60.csproj.AssemblyReference.cache
+D:\git\wpf-demos\chart_copied\obj_60\Debug\net6.0-windows\Resources\ColorModel.baml
+D:\git\wpf-demos\chart_copied\obj_60\Debug\net6.0-windows\Views\Exporting\ChartView.baml
+D:\git\wpf-demos\chart_copied\obj_60\Debug\net6.0-windows\Views\Circular Charts 3D\DoughnutSeriesDemo3D.g.cs
+D:\git\wpf-demos\chart_copied\obj_60\Debug\net6.0-windows\Views\Circular Charts 3D\PieSeriesDemo3D.g.cs
+D:\git\wpf-demos\chart_copied\obj_60\Debug\net6.0-windows\Views\Customization\ColumnSeries.g.cs
+D:\git\wpf-demos\chart_copied\obj_60\Debug\net6.0-windows\Views\Customization\CustomBarSeries.g.cs
+D:\git\wpf-demos\chart_copied\obj_60\Debug\net6.0-windows\Views\Customization\ScatterSeries.g.cs
+D:\git\wpf-demos\chart_copied\obj_60\Debug\net6.0-windows\Views\Customization\SplineSeries.g.cs
+D:\git\wpf-demos\chart_copied\obj_60\Debug\net6.0-windows\Views\Exporting\ChartView.g.cs
+D:\git\wpf-demos\chart_copied\obj_60\Debug\net6.0-windows\Views\Serialization\DeserializedChartContainer.g.cs
+D:\git\wpf-demos\chart_copied\obj_60\Debug\net6.0-windows\Views\Serialization\SerializedChartContainer.g.cs
+D:\git\wpf-demos\chart_copied\obj_60\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\git\wpf-demos\chart_copied\obj_60\Debug\net6.0-windows\syncfusion.chartdemos.wpf_MarkupCompile.cache
+D:\git\wpf-demos\chart_copied\obj_60\Debug\net6.0-windows\syncfusion.chartdemos.wpf_MarkupCompile.lref

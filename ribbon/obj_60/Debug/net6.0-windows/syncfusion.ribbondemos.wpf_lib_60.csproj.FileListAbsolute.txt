@@ -1,0 +1,22 @@
+D:\git\wpf-demos\ribbon\obj_60\Debug\net6.0-windows\syncfusion.ribbondemos.wpf_lib_60.csproj.AssemblyReference.cache
+D:\git\wpf-demos\ribbon\obj_60\Debug\net6.0-windows\Views\Option Tab\DisplayTabContent.baml
+D:\git\wpf-demos\ribbon\obj_60\Debug\net6.0-windows\Views\Option Tab\GeneralTabContent.baml
+D:\git\wpf-demos\ribbon\obj_60\Debug\net6.0-windows\Views\ApplicationMenu.g.cs
+D:\git\wpf-demos\ribbon\obj_60\Debug\net6.0-windows\Views\Backstage\Help.g.cs
+D:\git\wpf-demos\ribbon\obj_60\Debug\net6.0-windows\Views\Backstage\Information.g.cs
+D:\git\wpf-demos\ribbon\obj_60\Debug\net6.0-windows\Views\Backstage\New.g.cs
+D:\git\wpf-demos\ribbon\obj_60\Debug\net6.0-windows\Views\Backstage\Print.g.cs
+D:\git\wpf-demos\ribbon\obj_60\Debug\net6.0-windows\Views\Backstage\Recent.g.cs
+D:\git\wpf-demos\ribbon\obj_60\Debug\net6.0-windows\Views\ContextualTab.g.cs
+D:\git\wpf-demos\ribbon\obj_60\Debug\net6.0-windows\Views\MenuMerging.g.cs
+D:\git\wpf-demos\ribbon\obj_60\Debug\net6.0-windows\Views\ModelTab.g.cs
+D:\git\wpf-demos\ribbon\obj_60\Debug\net6.0-windows\Views\Option Tab\DisplayTabContent.g.cs
+D:\git\wpf-demos\ribbon\obj_60\Debug\net6.0-windows\Views\Option Tab\GeneralTabContent.g.cs
+D:\git\wpf-demos\ribbon\obj_60\Debug\net6.0-windows\Views\OptionTab.g.cs
+D:\git\wpf-demos\ribbon\obj_60\Debug\net6.0-windows\Views\RibbonBarCollapseOrder.g.cs
+D:\git\wpf-demos\ribbon\obj_60\Debug\net6.0-windows\Views\RibbonBarPositioning.g.cs
+D:\git\wpf-demos\ribbon\obj_60\Debug\net6.0-windows\Views\SimplifiedRibbon.g.cs
+D:\git\wpf-demos\ribbon\obj_60\Debug\net6.0-windows\Views\Touch.g.cs
+D:\git\wpf-demos\ribbon\obj_60\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\git\wpf-demos\ribbon\obj_60\Debug\net6.0-windows\syncfusion.ribbondemos.wpf_MarkupCompile.cache
+D:\git\wpf-demos\ribbon\obj_60\Debug\net6.0-windows\syncfusion.ribbondemos.wpf_MarkupCompile.lref

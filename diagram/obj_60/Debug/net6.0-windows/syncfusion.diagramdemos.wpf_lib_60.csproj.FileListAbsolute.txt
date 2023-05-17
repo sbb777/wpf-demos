@@ -1,0 +1,8 @@
+D:\git\wpf-demos\diagram\obj_60\Debug\net6.0-windows\syncfusion.diagramdemos.wpf_lib_60.csproj.AssemblyReference.cache
+D:\git\wpf-demos\diagram\obj_60\Debug\net6.0-windows\Views\CustomMargin.g.cs
+D:\git\wpf-demos\diagram\obj_60\Debug\net6.0-windows\Views\FlowDiagram.g.cs
+D:\git\wpf-demos\diagram\obj_60\Debug\net6.0-windows\Views\LocalizationRibbon.g.cs
+D:\git\wpf-demos\diagram\obj_60\Debug\net6.0-windows\Views\ThemeStyle.g.cs
+D:\git\wpf-demos\diagram\obj_60\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\git\wpf-demos\diagram\obj_60\Debug\net6.0-windows\syncfusion.diagramdemos.wpf_MarkupCompile.cache
+D:\git\wpf-demos\diagram\obj_60\Debug\net6.0-windows\syncfusion.diagramdemos.wpf_MarkupCompile.lref

@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "5RfoOkHTBHSfICur9giY96lgf3YAG9eSkOogmIrXc5DqoLYjqTS4QsCNAS+sMZJawCCl+VrQYmOGcZ4SgnDVng==",
+  "success": true,
+  "projectFilePath": "D:\\git\\wpf-demos\\showcase\\invoice\\syncfusion.invoice.wpf_lib_60.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.compression.base\\21.2.3\\syncfusion.compression.base.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.docio.wpf\\21.2.3\\syncfusion.docio.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.excelcharttoimageconverter.wpf\\21.2.3\\syncfusion.excelcharttoimageconverter.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.exceltopdfconverter.wpf\\21.2.3\\syncfusion.exceltopdfconverter.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.licensing\\21.2.3\\syncfusion.licensing.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.officechart.base\\21.2.3\\syncfusion.officechart.base.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.pdf.wpf\\21.2.3\\syncfusion.pdf.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.sfchart.wpf\\21.2.3\\syncfusion.sfchart.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.sfgauge.wpf\\21.2.3\\syncfusion.sfgauge.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.sfmaps.wpf\\21.2.3\\syncfusion.sfmaps.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.shared.wpf\\21.2.3\\syncfusion.shared.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.xlsio.wpf\\21.2.3\\syncfusion.xlsio.wpf.21.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,2 @@
+D:\git\wpf-demos\sparkline\obj_60\Debug\net6.0-windows\syncfusion.sparklinedemos.wpf_lib_60.csproj.AssemblyReference.cache
+D:\git\wpf-demos\sparkline\obj_60\Debug\net6.0-windows\syncfusion.sparklinedemos.wpf_MarkupCompile.cache

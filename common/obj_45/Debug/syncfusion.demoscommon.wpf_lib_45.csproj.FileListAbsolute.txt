@@ -1,0 +1,12 @@
+D:\git\wpf-demos\common\obj_45\Debug\syncfusion.demoscommon.wpf_lib_45.csproj.AssemblyReference.cache
+D:\git\wpf-demos\common\obj_45\Debug\Views\SourceCodeTabView.g.cs
+D:\git\wpf-demos\common\obj_45\Debug\GeneratedInternalTypeHelper.g.cs
+D:\git\wpf-demos\common\obj_45\Debug\syncfusion.demoscommon.wpf_MarkupCompile.cache
+D:\git\wpf-demos\common\obj_45\Debug\syncfusion.demoscommon.wpf_MarkupCompile.lref
+D:\git\wpf-demos\common\obj_45\Debug\SamplePages\WhatsNew.baml
+D:\git\wpf-demos\common\obj_45\Debug\Views\ErrorWindow.baml
+D:\git\wpf-demos\common\obj_45\Debug\Views\ProductsListView.baml
+D:\git\wpf-demos\common\obj_45\Debug\SamplePages\AllComponentsPage.g.cs
+D:\git\wpf-demos\common\obj_45\Debug\SamplePages\WhatsNew.g.cs
+D:\git\wpf-demos\common\obj_45\Debug\Views\ErrorWindow.g.cs
+D:\git\wpf-demos\common\obj_45\Debug\Views\ProductsListView.g.cs

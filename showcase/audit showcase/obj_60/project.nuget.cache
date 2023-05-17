@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "8idU/tMnAXJO+lTQBkg+vxy9z4gXk5CdZOhrNaeTpAPODH+Kh930WhnrBCRC5KDWDWFT7y4Hb4Qf+QV3cljH9w==",
+  "success": true,
+  "projectFilePath": "D:\\git\\wpf-demos\\showcase\\audit showcase\\syncfusion.auditshowcase.wpf_lib_60.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.licensing\\21.2.3\\syncfusion.licensing.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.pmml.wpf\\21.2.3\\syncfusion.pmml.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.sfskinmanager.wpf\\21.2.3\\syncfusion.sfskinmanager.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.shared.wpf\\21.2.3\\syncfusion.shared.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.themes.materiallight.wpf\\21.2.3\\syncfusion.themes.materiallight.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.tools.wpf\\21.2.3\\syncfusion.tools.wpf.21.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

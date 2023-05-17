@@ -1,0 +1,8 @@
+D:\git\wpf-demos\chart\obj_45\Debug\syncfusion.chartdemos.wpf_45.csproj.AssemblyReference.cache
+D:\git\wpf-demos\chart\obj_45\Debug\syncfusion.chartdemos.wpf_45.csproj.SuggestedBindingRedirects.cache
+D:\git\wpf-demos\chart\obj_45\Debug\App.g.cs
+D:\git\wpf-demos\chart\obj_45\Debug\GeneratedInternalTypeHelper.g.cs
+D:\git\wpf-demos\chart\obj_45\Debug\syncfusion.chartdemos.wpfapplication_MarkupCompile.cache
+D:\git\wpf-demos\chart\obj_45\Debug\syncfusion.chartdemos.wpf.Properties.Resources.resources
+D:\git\wpf-demos\chart\obj_45\Debug\syncfusion.chartdemos.wpf_45.csproj.GenerateResource.cache
+D:\git\wpf-demos\chart\obj_45\Debug\syncfusion.chartdemos.wpf_45.csproj.CoreCompileInputs.cache

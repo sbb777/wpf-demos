@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "WBviMSIejfmBoX5Itussq7NMZvEOmhPphhgxrIrXAHKFvgq/FS5st/o4U1n5gomtglUf8CEo9SmJCBUkJ3nlng==",
+  "success": true,
+  "projectFilePath": "D:\\git\\wpf-demos\\showcase\\car dashboard\\syncfusion.cardashboard.wpf_lib_60.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.licensing\\21.2.3\\syncfusion.licensing.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.sfgauge.wpf\\21.2.3\\syncfusion.sfgauge.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.sfskinmanager.wpf\\21.2.3\\syncfusion.sfskinmanager.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.shared.wpf\\21.2.3\\syncfusion.shared.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.themes.materialdark.wpf\\21.2.3\\syncfusion.themes.materialdark.wpf.21.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+D:\git\wpf-demos\showcase\unitconverter\obj_60\Debug\net6.0-windows\syncfusion.unitconverter.wpf_lib_60.csproj.AssemblyReference.cache
+D:\git\wpf-demos\showcase\unitconverter\obj_60\Debug\net6.0-windows\Views\WindowsStyle.baml
+D:\git\wpf-demos\showcase\unitconverter\obj_60\Debug\net6.0-windows\Views\AreaView.g.cs
+D:\git\wpf-demos\showcase\unitconverter\obj_60\Debug\net6.0-windows\Views\CurrencyView.g.cs
+D:\git\wpf-demos\showcase\unitconverter\obj_60\Debug\net6.0-windows\Views\DataView.g.cs
+D:\git\wpf-demos\showcase\unitconverter\obj_60\Debug\net6.0-windows\Views\LengthView.g.cs
+D:\git\wpf-demos\showcase\unitconverter\obj_60\Debug\net6.0-windows\Views\TemperatureView.g.cs
+D:\git\wpf-demos\showcase\unitconverter\obj_60\Debug\net6.0-windows\Views\TimeView.g.cs
+D:\git\wpf-demos\showcase\unitconverter\obj_60\Debug\net6.0-windows\Views\UnitConverter.g.cs
+D:\git\wpf-demos\showcase\unitconverter\obj_60\Debug\net6.0-windows\Views\VolumeView.g.cs
+D:\git\wpf-demos\showcase\unitconverter\obj_60\Debug\net6.0-windows\Views\WeightView.g.cs
+D:\git\wpf-demos\showcase\unitconverter\obj_60\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\git\wpf-demos\showcase\unitconverter\obj_60\Debug\net6.0-windows\syncfusion.unitconverter.wpf_MarkupCompile.cache
+D:\git\wpf-demos\showcase\unitconverter\obj_60\Debug\net6.0-windows\syncfusion.unitconverter.wpf_MarkupCompile.lref

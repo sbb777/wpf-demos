@@ -1,0 +1,13 @@
+D:\git\wpf-demos\showcase\floor planner\obj_60\Debug\net6.0-windows\syncfusion.floorplanner.wpf_lib_60.csproj.AssemblyReference.cache
+D:\git\wpf-demos\showcase\floor planner\obj_60\Debug\net6.0-windows\Template\FloorPlanDictionary.baml
+D:\git\wpf-demos\showcase\floor planner\obj_60\Debug\net6.0-windows\View\CreateFileButton.g.cs
+D:\git\wpf-demos\showcase\floor planner\obj_60\Debug\net6.0-windows\View\CreateNewWindow.g.cs
+D:\git\wpf-demos\showcase\floor planner\obj_60\Debug\net6.0-windows\View\FloorPlannerDemo.g.cs
+D:\git\wpf-demos\showcase\floor planner\obj_60\Debug\net6.0-windows\View\MenuBar.g.cs
+D:\git\wpf-demos\showcase\floor planner\obj_60\Debug\net6.0-windows\View\RecentFileButton.g.cs
+D:\git\wpf-demos\showcase\floor planner\obj_60\Debug\net6.0-windows\View\StatusBar.g.cs
+D:\git\wpf-demos\showcase\floor planner\obj_60\Debug\net6.0-windows\View\TemplateFileButton.g.cs
+D:\git\wpf-demos\showcase\floor planner\obj_60\Debug\net6.0-windows\View\ZoomPanWindow.g.cs
+D:\git\wpf-demos\showcase\floor planner\obj_60\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\git\wpf-demos\showcase\floor planner\obj_60\Debug\net6.0-windows\syncfusion.floorplanner.wpf_MarkupCompile.cache
+D:\git\wpf-demos\showcase\floor planner\obj_60\Debug\net6.0-windows\syncfusion.floorplanner.wpf_MarkupCompile.lref

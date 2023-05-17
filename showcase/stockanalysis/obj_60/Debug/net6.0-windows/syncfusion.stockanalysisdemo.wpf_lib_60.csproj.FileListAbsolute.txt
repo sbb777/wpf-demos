@@ -1,0 +1,6 @@
+D:\git\wpf-demos\showcase\stockanalysis\obj_60\Debug\net6.0-windows\syncfusion.stockanalysisdemo.wpf_lib_60.csproj.AssemblyReference.cache
+D:\git\wpf-demos\showcase\stockanalysis\obj_60\Debug\net6.0-windows\Views\StockAnalysisDemo.g.cs
+D:\git\wpf-demos\showcase\stockanalysis\obj_60\Debug\net6.0-windows\Views\StockAnalysisView.g.cs
+D:\git\wpf-demos\showcase\stockanalysis\obj_60\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\git\wpf-demos\showcase\stockanalysis\obj_60\Debug\net6.0-windows\syncfusion.stockanalysisdemo.wpf_MarkupCompile.cache
+D:\git\wpf-demos\showcase\stockanalysis\obj_60\Debug\net6.0-windows\syncfusion.stockanalysisdemo.wpf_MarkupCompile.lref

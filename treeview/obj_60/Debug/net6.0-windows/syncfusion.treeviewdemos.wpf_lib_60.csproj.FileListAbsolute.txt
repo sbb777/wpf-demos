@@ -1,0 +1,2 @@
+D:\git\wpf-demos\treeview\obj_60\Debug\net6.0-windows\syncfusion.treeviewdemos.wpf_lib_60.csproj.AssemblyReference.cache
+D:\git\wpf-demos\treeview\obj_60\Debug\net6.0-windows\syncfusion.treeviewdemos.wpf_MarkupCompile.cache

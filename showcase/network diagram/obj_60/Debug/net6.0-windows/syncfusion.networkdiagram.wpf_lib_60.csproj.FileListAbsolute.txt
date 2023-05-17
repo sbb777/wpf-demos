@@ -1,0 +1,5 @@
+D:\git\wpf-demos\showcase\network diagram\obj_60\Debug\net6.0-windows\syncfusion.networkdiagram.wpf_lib_60.csproj.AssemblyReference.cache
+D:\git\wpf-demos\showcase\network diagram\obj_60\Debug\net6.0-windows\Views\NetworkDiagram.g.cs
+D:\git\wpf-demos\showcase\network diagram\obj_60\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\git\wpf-demos\showcase\network diagram\obj_60\Debug\net6.0-windows\syncfusion.networkdiagram.wpf_MarkupCompile.cache
+D:\git\wpf-demos\showcase\network diagram\obj_60\Debug\net6.0-windows\syncfusion.networkdiagram.wpf_MarkupCompile.lref

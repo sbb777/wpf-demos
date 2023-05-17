@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "8qeQIs3w47uzkDRONRpQx3WxFt3o186YjjMmWyXnOcprFguRCrZq6GcwmcXI1Zj1GQLblrkHsU09ie0sN4cbmw==",
+  "success": true,
+  "projectFilePath": "D:\\git\\wpf-demos\\showcase\\patient monitor\\syncfusion.patientmonitor.wpf_lib_60.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jay\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.data.wpf\\21.2.3\\syncfusion.data.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.licensing\\21.2.3\\syncfusion.licensing.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.sfchart.wpf\\21.2.3\\syncfusion.sfchart.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.sfgrid.wpf\\21.2.3\\syncfusion.sfgrid.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.sfshared.wpf\\21.2.3\\syncfusion.sfshared.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.sfskinmanager.wpf\\21.2.3\\syncfusion.sfskinmanager.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.shared.wpf\\21.2.3\\syncfusion.shared.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.themes.materiallight.wpf\\21.2.3\\syncfusion.themes.materiallight.wpf.21.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

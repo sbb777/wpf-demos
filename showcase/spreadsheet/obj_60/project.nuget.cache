@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "i0inniCbi89PapmpkZ9pt0kbAm5kce33bC5z7XHB5Bj9jCQ1gdKZgKRDhH9ZxPOzqHwWaIRAgJVB9ujc9qNMuw==",
+  "success": true,
+  "projectFilePath": "D:\\git\\wpf-demos\\showcase\\spreadsheet\\syncfusion.spreadsheetdemo.wpf_lib_60.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jay\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.compression.base\\21.2.3\\syncfusion.compression.base.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.excelcharttoimageconverter.wpf\\21.2.3\\syncfusion.excelcharttoimageconverter.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.licensing\\21.2.3\\syncfusion.licensing.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.sfcellgrid.wpf\\21.2.3\\syncfusion.sfcellgrid.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.sfchart.wpf\\21.2.3\\syncfusion.sfchart.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.sfgridcommon.wpf\\21.2.3\\syncfusion.sfgridcommon.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.sfskinmanager.wpf\\21.2.3\\syncfusion.sfskinmanager.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.sfspreadsheet.wpf\\21.2.3\\syncfusion.sfspreadsheet.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.sfspreadsheethelper.wpf\\21.2.3\\syncfusion.sfspreadsheethelper.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.shared.wpf\\21.2.3\\syncfusion.shared.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.themes.office2019white.wpf\\21.2.3\\syncfusion.themes.office2019white.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.tools.wpf\\21.2.3\\syncfusion.tools.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.xlsio.wpf\\21.2.3\\syncfusion.xlsio.wpf.21.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

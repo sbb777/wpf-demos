@@ -1,0 +1,10 @@
+D:\git\wpf-demos\layout\obj_60\Debug\net6.0-windows\syncfusion.layoutdemos.wpf_lib_60.csproj.AssemblyReference.cache
+D:\git\wpf-demos\layout\obj_60\Debug\net6.0-windows\Chromeless Window\GettingStarted.baml
+D:\git\wpf-demos\layout\obj_60\Debug\net6.0-windows\Tile View\UI Virtualization\UserTemplate.baml
+D:\git\wpf-demos\layout\obj_60\Debug\net6.0-windows\Chromeless Window\GettingStarted.g.cs
+D:\git\wpf-demos\layout\obj_60\Debug\net6.0-windows\Chromeless Window\TitleBarCustomization.g.cs
+D:\git\wpf-demos\layout\obj_60\Debug\net6.0-windows\Tile View\Data Binding\View\TileItemView.g.cs
+D:\git\wpf-demos\layout\obj_60\Debug\net6.0-windows\Tile View\UI Virtualization\UserTemplate.g.cs
+D:\git\wpf-demos\layout\obj_60\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\git\wpf-demos\layout\obj_60\Debug\net6.0-windows\syncfusion.layoutdemos.wpf_MarkupCompile.cache
+D:\git\wpf-demos\layout\obj_60\Debug\net6.0-windows\syncfusion.layoutdemos.wpf_MarkupCompile.lref

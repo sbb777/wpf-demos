@@ -1,0 +1,15 @@
+D:\git\wpf-demos\showcase\organizational layout\obj_60\Debug\net6.0-windows\syncfusion.organizationallayout.wpf_lib_60.csproj.AssemblyReference.cache
+D:\git\wpf-demos\showcase\organizational layout\obj_60\Debug\net6.0-windows\Template\organizationallayoutDictionary.baml
+D:\git\wpf-demos\showcase\organizational layout\obj_60\Debug\net6.0-windows\Views\CreateFileButton.g.cs
+D:\git\wpf-demos\showcase\organizational layout\obj_60\Debug\net6.0-windows\Views\CreateNewWindow.g.cs
+D:\git\wpf-demos\showcase\organizational layout\obj_60\Debug\net6.0-windows\Views\MenuBar.g.cs
+D:\git\wpf-demos\showcase\organizational layout\obj_60\Debug\net6.0-windows\Views\OrganizationalLayoutdemo.g.cs
+D:\git\wpf-demos\showcase\organizational layout\obj_60\Debug\net6.0-windows\Views\Properties.g.cs
+D:\git\wpf-demos\showcase\organizational layout\obj_60\Debug\net6.0-windows\Views\RecentFileButton.g.cs
+D:\git\wpf-demos\showcase\organizational layout\obj_60\Debug\net6.0-windows\Views\Search Window.g.cs
+D:\git\wpf-demos\showcase\organizational layout\obj_60\Debug\net6.0-windows\Views\StatusBar.g.cs
+D:\git\wpf-demos\showcase\organizational layout\obj_60\Debug\net6.0-windows\Views\TemplateFileButton.g.cs
+D:\git\wpf-demos\showcase\organizational layout\obj_60\Debug\net6.0-windows\Views\ZoomPanWindow.g.cs
+D:\git\wpf-demos\showcase\organizational layout\obj_60\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\git\wpf-demos\showcase\organizational layout\obj_60\Debug\net6.0-windows\syncfusion.organizationallayout.wpf_MarkupCompile.cache
+D:\git\wpf-demos\showcase\organizational layout\obj_60\Debug\net6.0-windows\syncfusion.organizationallayout.wpf_MarkupCompile.lref

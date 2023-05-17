@@ -1,0 +1,2 @@
+D:\git\wpf-demos\kanban\obj_60\Debug\net6.0-windows\syncfusion.kanbandemos.wpf_lib_60.csproj.AssemblyReference.cache
+D:\git\wpf-demos\kanban\obj_60\Debug\net6.0-windows\syncfusion.kanbandemos.wpf_MarkupCompile.cache

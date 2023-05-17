@@ -1,0 +1,20 @@
+﻿syncfusion.patientmonitor.wpf
+
+
+library
+C#
+.cs
+D:\git\wpf-demos\showcase\patient monitor\obj_60\Debug\net6.0-windows\
+syncfusion.patientmonitor.wpf
+none
+false
+TRACE;NET50;DEBUG;NET;NET6_0;NETCOREAPP
+
+3-34859958
+
+26-307256253
+212-9276712
+PatientMonitor.xaml;View\CurrentDetailsDemo.xaml;View\HistoryDetailsView.xaml;
+
+True
+

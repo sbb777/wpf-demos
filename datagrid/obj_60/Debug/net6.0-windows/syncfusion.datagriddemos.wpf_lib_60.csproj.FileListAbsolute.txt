@@ -1,0 +1,14 @@
+D:\git\wpf-demos\datagrid\obj_60\Debug\net6.0-windows\syncfusion.datagriddemos.wpf_lib_60.csproj.AssemblyReference.cache
+D:\git\wpf-demos\datagrid\obj_60\Debug\net6.0-windows\Views\Interactive Features\CustomColumnChooser.baml
+D:\git\wpf-demos\datagrid\obj_60\Debug\net6.0-windows\Views\Printing\PreviewWindow.baml
+D:\git\wpf-demos\datagrid\obj_60\Debug\net6.0-windows\Views\DataBinding\DataTablePage.g.cs
+D:\git\wpf-demos\datagrid\obj_60\Debug\net6.0-windows\Views\DataBinding\DynamicObjectsPage.g.cs
+D:\git\wpf-demos\datagrid\obj_60\Debug\net6.0-windows\Views\DataBinding\ListViewPage.g.cs
+D:\git\wpf-demos\datagrid\obj_60\Debug\net6.0-windows\Views\DataBinding\ObservableCollectionPage.g.cs
+D:\git\wpf-demos\datagrid\obj_60\Debug\net6.0-windows\Views\Interactive Features\ColumnChooserDemo.g.cs
+D:\git\wpf-demos\datagrid\obj_60\Debug\net6.0-windows\Views\Interactive Features\CustomColumnChooser.g.cs
+D:\git\wpf-demos\datagrid\obj_60\Debug\net6.0-windows\Views\Printing\PreviewWindow.g.cs
+D:\git\wpf-demos\datagrid\obj_60\Debug\net6.0-windows\Views\Serialization\Views\ManipulatorView.g.cs
+D:\git\wpf-demos\datagrid\obj_60\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\git\wpf-demos\datagrid\obj_60\Debug\net6.0-windows\syncfusion.datagriddemos.wpf_MarkupCompile.cache
+D:\git\wpf-demos\datagrid\obj_60\Debug\net6.0-windows\syncfusion.datagriddemos.wpf_MarkupCompile.lref

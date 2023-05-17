@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "GbOw+zExOVngqYbmqDuIUCPevnBC85bxnR/mSp8zH5fLPnYZme6GPwMUkQtumw/vf+AibT9cSVuWiTeeyMwyIA==",
+  "success": true,
+  "projectFilePath": "D:\\git\\wpf-demos\\showcase\\logical circuit designer\\syncfusion.logicalcircuitdesigner.wpf_lib_60.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.compression.base\\21.2.3\\syncfusion.compression.base.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.licensing\\21.2.3\\syncfusion.licensing.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.pdf.wpf\\21.2.3\\syncfusion.pdf.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.sfdiagram.wpf\\21.2.3\\syncfusion.sfdiagram.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.sfskinmanager.wpf\\21.2.3\\syncfusion.sfskinmanager.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.shared.wpf\\21.2.3\\syncfusion.shared.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.themes.materialdark.wpf\\21.2.3\\syncfusion.themes.materialdark.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.tools.wpf\\21.2.3\\syncfusion.tools.wpf.21.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

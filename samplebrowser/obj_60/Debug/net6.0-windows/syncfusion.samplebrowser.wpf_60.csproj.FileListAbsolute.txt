@@ -1,0 +1,4 @@
+D:\git\wpf-demos\samplebrowser\obj_60\Debug\net6.0-windows\syncfusion.samplebrowser.wpf_60.csproj.AssemblyReference.cache
+D:\git\wpf-demos\samplebrowser\obj_60\Debug\net6.0-windows\App.g.cs
+D:\git\wpf-demos\samplebrowser\obj_60\Debug\net6.0-windows\syncfusion.samplebrowser.wpf_MarkupCompile.cache
+D:\git\wpf-demos\samplebrowser\obj_60\Debug\net6.0-windows\syncfusion.samplebrowser.wpf_MarkupCompile.lref

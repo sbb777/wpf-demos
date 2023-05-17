@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "ndgdRXlsJA4olCTFuKytxTFEa28ju38naEDU/p5sQgTCg6aDxbpz8Vfr6pLXR/0CMsn4JChMMzxz+Kc83X4PXA==",
+  "success": true,
+  "projectFilePath": "D:\\git\\wpf-demos\\showcase\\succinctly series\\syncfusion.succinctlyseries.wpf_lib_60.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.compression.base\\21.2.3\\syncfusion.compression.base.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.licensing\\21.2.3\\syncfusion.licensing.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.pdf.wpf\\21.2.3\\syncfusion.pdf.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.pdfviewer.wpf\\21.2.3\\syncfusion.pdfviewer.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.sfbusyindicator.wpf\\21.2.3\\syncfusion.sfbusyindicator.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.sfskinmanager.wpf\\21.2.3\\syncfusion.sfskinmanager.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.shared.wpf\\21.2.3\\syncfusion.shared.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.themes.office2019black.wpf\\21.2.3\\syncfusion.themes.office2019black.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.themes.office2019colorful.wpf\\21.2.3\\syncfusion.themes.office2019colorful.wpf.21.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

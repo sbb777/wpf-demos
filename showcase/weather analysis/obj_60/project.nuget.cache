@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "5zQjfJwQAdWK4Xs1kNvh/ScyTLIzjGpeisWfguyghQMcHeCHZ0pWywc5AtiHAMHvRGaJEL6B/+M1VcUxrFgMaQ==",
+  "success": true,
+  "projectFilePath": "D:\\git\\wpf-demos\\showcase\\weather analysis\\syncfusion.weatheranalysis.wpf_lib_60.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.data.wpf\\21.2.3\\syncfusion.data.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.gridcommon.wpf\\21.2.3\\syncfusion.gridcommon.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.licensing\\21.2.3\\syncfusion.licensing.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.linq.base\\21.2.3\\syncfusion.linq.base.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.sfchart.wpf\\21.2.3\\syncfusion.sfchart.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.sfgrid.wpf\\21.2.3\\syncfusion.sfgrid.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.sfskinmanager.wpf\\21.2.3\\syncfusion.sfskinmanager.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.shared.wpf\\21.2.3\\syncfusion.shared.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.themes.fluentlight.wpf\\21.2.3\\syncfusion.themes.fluentlight.wpf.21.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,35 @@
+D:\git\wpf-demos\navigation\obj_60\Debug\net6.0-windows\syncfusion.navigationdemos.wpf_lib_60.csproj.AssemblyReference.cache
+D:\git\wpf-demos\navigation\obj_60\Debug\net6.0-windows\Group Bar\Views\ContactsView.baml
+D:\git\wpf-demos\navigation\obj_60\Debug\net6.0-windows\Group Bar\Views\NotesView.baml
+D:\git\wpf-demos\navigation\obj_60\Debug\net6.0-windows\Group Bar\Views\TaskView.baml
+D:\git\wpf-demos\navigation\obj_60\Debug\net6.0-windows\Menu\Views\ChartView.baml
+D:\git\wpf-demos\navigation\obj_60\Debug\net6.0-windows\Menu\Views\GridView.baml
+D:\git\wpf-demos\navigation\obj_60\Debug\net6.0-windows\Menu\Views\ToolbarView.baml
+D:\git\wpf-demos\navigation\obj_60\Debug\net6.0-windows\NavigationDrawer\Views\DrawerContentView.baml
+D:\git\wpf-demos\navigation\obj_60\Debug\net6.0-windows\Assets\Menu\Icon.g.cs
+D:\git\wpf-demos\navigation\obj_60\Debug\net6.0-windows\Group Bar\Views\ContactsView.g.cs
+D:\git\wpf-demos\navigation\obj_60\Debug\net6.0-windows\Group Bar\Views\MailView.g.cs
+D:\git\wpf-demos\navigation\obj_60\Debug\net6.0-windows\Group Bar\Views\NotesView.g.cs
+D:\git\wpf-demos\navigation\obj_60\Debug\net6.0-windows\Group Bar\Views\TaskView.g.cs
+D:\git\wpf-demos\navigation\obj_60\Debug\net6.0-windows\Menu\MenuMerging.g.cs
+D:\git\wpf-demos\navigation\obj_60\Debug\net6.0-windows\Menu\Views\ChartView.g.cs
+D:\git\wpf-demos\navigation\obj_60\Debug\net6.0-windows\Menu\Views\GridView.g.cs
+D:\git\wpf-demos\navigation\obj_60\Debug\net6.0-windows\Menu\Views\MDIView.g.cs
+D:\git\wpf-demos\navigation\obj_60\Debug\net6.0-windows\Menu\Views\MenuView.g.cs
+D:\git\wpf-demos\navigation\obj_60\Debug\net6.0-windows\Menu\Views\ToolbarView.g.cs
+D:\git\wpf-demos\navigation\obj_60\Debug\net6.0-windows\NavigationDrawer\SamplePages\SamplePage1.g.cs
+D:\git\wpf-demos\navigation\obj_60\Debug\net6.0-windows\NavigationDrawer\SamplePages\SamplePage2.g.cs
+D:\git\wpf-demos\navigation\obj_60\Debug\net6.0-windows\NavigationDrawer\SamplePages\SamplePage3.g.cs
+D:\git\wpf-demos\navigation\obj_60\Debug\net6.0-windows\NavigationDrawer\SamplePages\SamplePage4.g.cs
+D:\git\wpf-demos\navigation\obj_60\Debug\net6.0-windows\NavigationDrawer\SamplePages\SamplePage5.g.cs
+D:\git\wpf-demos\navigation\obj_60\Debug\net6.0-windows\NavigationDrawer\SamplePages\SamplePage6.g.cs
+D:\git\wpf-demos\navigation\obj_60\Debug\net6.0-windows\NavigationDrawer\SamplePages\SamplePage7.g.cs
+D:\git\wpf-demos\navigation\obj_60\Debug\net6.0-windows\NavigationDrawer\SamplePages\SampleSettingsPage.g.cs
+D:\git\wpf-demos\navigation\obj_60\Debug\net6.0-windows\NavigationDrawer\Views\DrawerContentView.g.cs
+D:\git\wpf-demos\navigation\obj_60\Debug\net6.0-windows\NavigationDrawer\Views\NavigationDrawerDemosView.g.cs
+D:\git\wpf-demos\navigation\obj_60\Debug\net6.0-windows\TabControlExt\View\Getting Started\TabWeather.g.cs
+D:\git\wpf-demos\navigation\obj_60\Debug\net6.0-windows\TabControlExt\View\Lazy Loading\TimeConsumingView.g.cs
+D:\git\wpf-demos\navigation\obj_60\Debug\net6.0-windows\Wizard Control\WizardDemosView.g.cs
+D:\git\wpf-demos\navigation\obj_60\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\git\wpf-demos\navigation\obj_60\Debug\net6.0-windows\syncfusion.navigationdemos.wpf_MarkupCompile.cache
+D:\git\wpf-demos\navigation\obj_60\Debug\net6.0-windows\syncfusion.navigationdemos.wpf_MarkupCompile.lref

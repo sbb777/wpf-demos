@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "oAPHQVanwR+n5w3voCoiXl84hgcCfx0pHPPrLSR/2+7E2zbZynaZHf00EXh2VD9E0bhs9i/5jP5xjF9OBIFLHw==",
+  "success": true,
+  "projectFilePath": "D:\\git\\wpf-demos\\showcase\\documenteditor\\syncfusion.documenteditor.wpf_lib_60.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.compression.base\\21.2.3\\syncfusion.compression.base.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.docio.wpf\\21.2.3\\syncfusion.docio.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.licensing\\21.2.3\\syncfusion.licensing.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.officechart.base\\21.2.3\\syncfusion.officechart.base.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.sfbusyindicator.wpf\\21.2.3\\syncfusion.sfbusyindicator.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.sfinput.wpf\\21.2.3\\syncfusion.sfinput.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.sfrichtextboxadv.wpf\\21.2.3\\syncfusion.sfrichtextboxadv.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.sfrichtextribbon.wpf\\21.2.3\\syncfusion.sfrichtextribbon.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.sfskinmanager.wpf\\21.2.3\\syncfusion.sfskinmanager.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.shared.wpf\\21.2.3\\syncfusion.shared.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.themes.materialdark.wpf\\21.2.3\\syncfusion.themes.materialdark.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.themes.materialdarkblue.wpf\\21.2.3\\syncfusion.themes.materialdarkblue.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.themes.materiallight.wpf\\21.2.3\\syncfusion.themes.materiallight.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.themes.materiallightblue.wpf\\21.2.3\\syncfusion.themes.materiallightblue.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.themes.office2019black.wpf\\21.2.3\\syncfusion.themes.office2019black.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.themes.office2019colorful.wpf\\21.2.3\\syncfusion.themes.office2019colorful.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.tools.wpf\\21.2.3\\syncfusion.tools.wpf.21.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

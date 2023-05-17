@@ -1,0 +1,13 @@
+D:\git\wpf-demos\showcase\invoice\obj_60\Debug\net6.0-windows\syncfusion.invoice.wpf_lib_60.csproj.AssemblyReference.cache
+D:\git\wpf-demos\showcase\invoice\obj_60\Debug\net6.0-windows\Invoice.baml
+D:\git\wpf-demos\showcase\invoice\obj_60\Debug\net6.0-windows\Views\AddressDialog.baml
+D:\git\wpf-demos\showcase\invoice\obj_60\Debug\net6.0-windows\Views\FieldDialog.baml
+D:\git\wpf-demos\showcase\invoice\obj_60\Debug\net6.0-windows\Invoice.g.cs
+D:\git\wpf-demos\showcase\invoice\obj_60\Debug\net6.0-windows\Views\AddressDialog.g.cs
+D:\git\wpf-demos\showcase\invoice\obj_60\Debug\net6.0-windows\Views\FieldDialog.g.cs
+D:\git\wpf-demos\showcase\invoice\obj_60\Debug\net6.0-windows\syncfusion.invoice.wpf_MarkupCompile.cache
+D:\git\wpf-demos\showcase\invoice\obj_60\Debug\net6.0-windows\syncfusion.invoice.wpf.g.resources
+D:\git\wpf-demos\showcase\invoice\obj_60\Debug\net6.0-windows\syncfusion.invoice.wpf.Properties.Resources.resources
+D:\git\wpf-demos\showcase\invoice\obj_60\Debug\net6.0-windows\syncfusion.invoice.wpf_lib_60.csproj.GenerateResource.cache
+D:\git\wpf-demos\showcase\invoice\obj_60\Debug\net6.0-windows\syncfusion.invoice.wpf_lib_60.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\wpf-demos\showcase\invoice\obj_60\Debug\net6.0-windows\syncfusion.invoice.wpf_lib_60.csproj.CoreCompileInputs.cache

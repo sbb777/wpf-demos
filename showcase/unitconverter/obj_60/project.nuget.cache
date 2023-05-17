@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "G3d2JdNvFtp56v2l2/85PT1Iblmy4PHnxzRx6rQ6RL3BAFTgM0ZWsTdxx3iPVO5VfJjzuT+km6sYJye/7rQp/A==",
+  "success": true,
+  "projectFilePath": "D:\\git\\wpf-demos\\showcase\\unitconverter\\syncfusion.unitconverter.wpf_lib_60.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.licensing\\21.2.3\\syncfusion.licensing.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.sfchromelesswindow.wpf\\21.2.3\\syncfusion.sfchromelesswindow.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.shared.wpf\\21.2.3\\syncfusion.shared.wpf.21.2.3.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\syncfusion.tools.wpf\\21.2.3\\syncfusion.tools.wpf.21.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
